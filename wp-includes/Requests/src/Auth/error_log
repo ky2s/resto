@@ -1,0 +1,72 @@
+[01-Nov-2025 19:14:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php on line 23
+[01-Nov-2025 19:14:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php on line 23
+[01-Nov-2025 19:14:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php on line 23
+[01-Nov-2025 19:14:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php on line 23
+[01-Nov-2025 19:15:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php on line 23
+[01-Nov-2025 19:15:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php on line 23
+[01-Nov-2025 19:15:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php on line 23
+[01-Nov-2025 19:15:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php on line 23
+[20-Nov-2025 04:16:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php on line 23
+[20-Nov-2025 04:16:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php on line 23
+[20-Nov-2025 04:16:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php on line 23
+[20-Nov-2025 04:16:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php on line 23
+[20-Nov-2025 04:16:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php on line 23
+[20-Nov-2025 04:16:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php on line 23
+[20-Nov-2025 04:16:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php on line 23
+[20-Nov-2025 04:16:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php on line 23
+[17-Dec-2025 17:36:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php on line 23
+[17-Dec-2025 17:37:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Auth/Basic.php on line 23

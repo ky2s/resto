@@ -1,0 +1,72 @@
+[01-Nov-2025 19:31:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php on line 12
+[01-Nov-2025 19:31:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php on line 12
+[01-Nov-2025 19:31:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php on line 12
+[01-Nov-2025 19:31:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php on line 12
+[01-Nov-2025 19:32:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php on line 12
+[01-Nov-2025 19:32:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php on line 12
+[01-Nov-2025 19:32:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php on line 12
+[01-Nov-2025 19:32:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php on line 12
+[20-Nov-2025 04:19:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php on line 12
+[20-Nov-2025 04:19:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php on line 12
+[20-Nov-2025 04:19:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php on line 12
+[20-Nov-2025 04:19:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php on line 12
+[20-Nov-2025 04:19:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php on line 12
+[20-Nov-2025 04:19:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php on line 12
+[20-Nov-2025 04:19:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php on line 12
+[20-Nov-2025 04:20:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php on line 12
+[17-Dec-2025 17:36:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php on line 12
+[17-Dec-2025 17:37:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/library/Requests.php on line 12

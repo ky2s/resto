@@ -1,0 +1,68 @@
+[01-Nov-2025 18:51:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php on line 9
+[01-Nov-2025 18:51:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php on line 9
+[01-Nov-2025 18:51:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php on line 9
+[01-Nov-2025 18:51:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php on line 9
+[01-Nov-2025 18:52:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php on line 9
+[01-Nov-2025 18:52:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php on line 9
+[01-Nov-2025 18:52:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php on line 9
+[01-Nov-2025 18:52:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php on line 9
+[20-Nov-2025 04:24:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php on line 9
+[20-Nov-2025 04:24:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php on line 9
+[20-Nov-2025 04:24:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php on line 9
+[20-Nov-2025 04:24:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php on line 9
+[20-Nov-2025 04:24:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php on line 9
+[20-Nov-2025 04:24:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php on line 9
+[20-Nov-2025 04:24:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php on line 9
+[20-Nov-2025 04:24:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php on line 9
+[17-Dec-2025 17:33:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/File.php on line 9

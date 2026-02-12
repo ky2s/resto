@@ -1,0 +1,216 @@
+[01-Nov-2025 19:31:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[01-Nov-2025 19:31:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[01-Nov-2025 19:31:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[01-Nov-2025 19:31:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[01-Nov-2025 19:31:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[01-Nov-2025 19:31:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[01-Nov-2025 19:31:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[01-Nov-2025 19:31:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[01-Nov-2025 19:31:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[01-Nov-2025 19:31:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[01-Nov-2025 19:31:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[01-Nov-2025 19:31:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[01-Nov-2025 19:32:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[01-Nov-2025 19:32:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[01-Nov-2025 19:32:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[01-Nov-2025 19:32:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[01-Nov-2025 19:32:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[01-Nov-2025 19:32:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[01-Nov-2025 19:32:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[01-Nov-2025 19:32:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[01-Nov-2025 19:32:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[01-Nov-2025 19:32:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[01-Nov-2025 19:32:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[01-Nov-2025 19:32:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[20-Nov-2025 04:23:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[20-Nov-2025 04:24:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[20-Nov-2025 04:24:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[20-Nov-2025 04:24:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[20-Nov-2025 04:24:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[20-Nov-2025 04:24:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[20-Nov-2025 04:24:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[20-Nov-2025 04:24:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[20-Nov-2025 04:24:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[20-Nov-2025 04:24:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[20-Nov-2025 04:24:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[20-Nov-2025 04:24:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[20-Nov-2025 04:24:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[20-Nov-2025 04:24:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[20-Nov-2025 04:24:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[20-Nov-2025 04:24:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[20-Nov-2025 04:24:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[20-Nov-2025 04:24:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[20-Nov-2025 04:24:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[20-Nov-2025 04:24:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[20-Nov-2025 04:24:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[20-Nov-2025 04:24:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[20-Nov-2025 04:24:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[20-Nov-2025 04:24:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[17-Dec-2025 17:34:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[17-Dec-2025 17:34:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[17-Dec-2025 17:34:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[17-Dec-2025 17:35:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[17-Dec-2025 17:35:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[17-Dec-2025 17:35:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17

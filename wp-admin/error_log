@@ -1,0 +1,233 @@
+[29-Mar-2025 23:08:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php:880
+Stack trace:
+#0 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1968): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1691): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1523): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/etaw7379/public_html/resto/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/etaw7379/public_html/resto/wp-admin/includes/upgrade.php(629): wp_mail()
+#5 /home/etaw7379/public_html/resto/wp-admin/includes/upgrade.php(132): wp_new_blog_notification()
+#6 /home/etaw7379/public_html/resto/wp-admin/install.php(425): wp_install()
+#7 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php on line 880
+[29-Mar-2025 23:11:59 UTC] PHP Warning:  chmod(): No such file or directory in /home/etaw7379/public_html/resto/wp-admin/includes/class-wp-filesystem-direct.php on line 173
+[29-Mar-2025 23:12:01 UTC] PHP Warning:  chmod(): No such file or directory in /home/etaw7379/public_html/resto/wp-admin/includes/class-wp-filesystem-direct.php on line 173
+[29-Mar-2025 23:13:45 UTC] PHP Warning:  Attempt to read property "title" on null in /home/etaw7379/public_html/resto/wp-includes/class-wp-customize-widgets.php on line 923
+[29-Mar-2025 23:13:46 UTC] PHP Warning:  Undefined variable $aktifkan_adminnotif in /home/etaw7379/public_html/resto/wp-content/themes/themefood/functions.php on line 452
+[29-Mar-2025 23:13:46 UTC] PHP Warning:  Undefined variable $aktifkan_adminnotif in /home/etaw7379/public_html/resto/wp-content/themes/themefood/functions.php on line 452
+[29-Mar-2025 23:27:38 UTC] PHP Warning:  Undefined variable $aktifkan_adminnotif in /home/etaw7379/public_html/resto/wp-content/themes/themefood/functions.php on line 452
+[29-Mar-2025 23:28:57 UTC] PHP Warning:  Attempt to read property "title" on null in /home/etaw7379/public_html/resto/wp-includes/class-wp-customize-widgets.php on line 923
+[29-Mar-2025 23:29:15 UTC] PHP Warning:  Undefined variable $aktifkan_adminnotif in /home/etaw7379/public_html/resto/wp-content/themes/themefood/functions.php on line 452
+[29-Mar-2025 23:29:15 UTC] PHP Warning:  Undefined variable $aktifkan_adminnotif in /home/etaw7379/public_html/resto/wp-content/themes/themefood/functions.php on line 452
+[29-Mar-2025 23:31:05 UTC] PHP Warning:  Undefined variable $aktifkan_adminnotif in /home/etaw7379/public_html/resto/wp-content/themes/themefood/functions.php on line 452
+[29-Mar-2025 23:34:15 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 3 arguments are required, 2 given in /home/etaw7379/public_html/resto/wp-admin/includes/class-bulk-upgrader-skin.php:208
+Stack trace:
+#0 /home/etaw7379/public_html/resto/wp-admin/includes/class-bulk-upgrader-skin.php(208): sprintf()
+#1 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(3657): Bulk_Upgrader_Skin->after()
+#2 /home/etaw7379/public_html/resto/wp-admin/includes/class-wp-upgrader.php(944): TGMPA_Bulk_Installer_Skin->after()
+#3 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(3277): WP_Upgrader->run()
+#4 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(3390): TGMPA_Bulk_Installer->run()
+#5 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(2996): TGMPA_Bulk_Installer->bulk_install()
+#6 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(751): TGMPA_List_Table->process_bulk_actions()
+#7 /home/etaw7379/public_html/resto/wp-includes/class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page()
+#8 /home/etaw7379/public_html/resto/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#9 /home/etaw7379/public_html/resto/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/etaw7379/public_html/resto/wp-admin/admin.php(259): do_action()
+#11 /home/etaw7379/public_html/resto/wp-admin/themes.php(10): require_once('/home/etaw7379/...')
+#12 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-admin/includes/class-bulk-upgrader-skin.php on line 208
+[29-Mar-2025 23:34:36 UTC] PHP Warning:  Undefined variable $aktifkan_adminnotif in /home/etaw7379/public_html/resto/wp-content/themes/themefood/functions.php on line 452
+[29-Mar-2025 23:34:38 UTC] PHP Warning:  Undefined variable $aktifkan_adminnotif in /home/etaw7379/public_html/resto/wp-content/themes/themefood/functions.php on line 452
+[29-Mar-2025 23:34:58 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 3 arguments are required, 2 given in /home/etaw7379/public_html/resto/wp-admin/includes/class-bulk-upgrader-skin.php:208
+Stack trace:
+#0 /home/etaw7379/public_html/resto/wp-admin/includes/class-bulk-upgrader-skin.php(208): sprintf()
+#1 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(3657): Bulk_Upgrader_Skin->after()
+#2 /home/etaw7379/public_html/resto/wp-admin/includes/class-wp-upgrader.php(944): TGMPA_Bulk_Installer_Skin->after()
+#3 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(3277): WP_Upgrader->run()
+#4 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(3390): TGMPA_Bulk_Installer->run()
+#5 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(2996): TGMPA_Bulk_Installer->bulk_install()
+#6 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(751): TGMPA_List_Table->process_bulk_actions()
+#7 /home/etaw7379/public_html/resto/wp-includes/class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page()
+#8 /home/etaw7379/public_html/resto/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#9 /home/etaw7379/public_html/resto/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/etaw7379/public_html/resto/wp-admin/admin.php(259): do_action()
+#11 /home/etaw7379/public_html/resto/wp-admin/themes.php(10): require_once('/home/etaw7379/...')
+#12 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-admin/includes/class-bulk-upgrader-skin.php on line 208
+[29-Mar-2025 23:35:06 UTC] PHP Warning:  Undefined variable $aktifkan_adminnotif in /home/etaw7379/public_html/resto/wp-content/themes/themefood/functions.php on line 452
+[29-Mar-2025 23:35:23 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 3 arguments are required, 2 given in /home/etaw7379/public_html/resto/wp-admin/includes/class-bulk-upgrader-skin.php:208
+Stack trace:
+#0 /home/etaw7379/public_html/resto/wp-admin/includes/class-bulk-upgrader-skin.php(208): sprintf()
+#1 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(3657): Bulk_Upgrader_Skin->after()
+#2 /home/etaw7379/public_html/resto/wp-admin/includes/class-wp-upgrader.php(944): TGMPA_Bulk_Installer_Skin->after()
+#3 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(3277): WP_Upgrader->run()
+#4 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(3390): TGMPA_Bulk_Installer->run()
+#5 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(2996): TGMPA_Bulk_Installer->bulk_install()
+#6 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(751): TGMPA_List_Table->process_bulk_actions()
+#7 /home/etaw7379/public_html/resto/wp-includes/class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page()
+#8 /home/etaw7379/public_html/resto/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#9 /home/etaw7379/public_html/resto/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/etaw7379/public_html/resto/wp-admin/admin.php(259): do_action()
+#11 /home/etaw7379/public_html/resto/wp-admin/themes.php(10): require_once('/home/etaw7379/...')
+#12 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-admin/includes/class-bulk-upgrader-skin.php on line 208
+[29-Mar-2025 23:35:28 UTC] PHP Warning:  Undefined variable $aktifkan_adminnotif in /home/etaw7379/public_html/resto/wp-content/themes/themefood/functions.php on line 452
+[29-Mar-2025 23:35:46 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 3 arguments are required, 2 given in /home/etaw7379/public_html/resto/wp-admin/includes/class-bulk-upgrader-skin.php:208
+Stack trace:
+#0 /home/etaw7379/public_html/resto/wp-admin/includes/class-bulk-upgrader-skin.php(208): sprintf()
+#1 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(3657): Bulk_Upgrader_Skin->after()
+#2 /home/etaw7379/public_html/resto/wp-admin/includes/class-wp-upgrader.php(944): TGMPA_Bulk_Installer_Skin->after()
+#3 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(3277): WP_Upgrader->run()
+#4 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(3390): TGMPA_Bulk_Installer->run()
+#5 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(2996): TGMPA_Bulk_Installer->bulk_install()
+#6 /home/etaw7379/public_html/resto/wp-content/themes/themefood/inc/class-tgm-plugin-activation.php(751): TGMPA_List_Table->process_bulk_actions()
+#7 /home/etaw7379/public_html/resto/wp-includes/class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page()
+#8 /home/etaw7379/public_html/resto/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#9 /home/etaw7379/public_html/resto/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/etaw7379/public_html/resto/wp-admin/admin.php(259): do_action()
+#11 /home/etaw7379/public_html/resto/wp-admin/themes.php(10): require_once('/home/etaw7379/...')
+#12 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-admin/includes/class-bulk-upgrader-skin.php on line 208
+[30-Mar-2025 00:04:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[30-Mar-2025 00:10:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[30-Mar-2025 00:11:36 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[30-Mar-2025 00:14:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[30-Mar-2025 00:14:36 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[30-Mar-2025 00:15:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[30-Mar-2025 00:15:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[30-Mar-2025 00:15:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[30-Mar-2025 00:15:53 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[30-Mar-2025 00:17:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[30-Mar-2025 00:19:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[30-Mar-2025 00:44:53 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[30-Mar-2025 00:44:53 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[30-Mar-2025 00:51:42 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[30-Mar-2025 00:51:42 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[30-Mar-2025 06:35:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[30-Mar-2025 06:35:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[30-Mar-2025 06:37:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[30-Mar-2025 06:37:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[30-Mar-2025 06:38:56 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[30-Mar-2025 06:38:56 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[09-Apr-2025 04:00:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php:880
+Stack trace:
+#0 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1968): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1691): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1523): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/etaw7379/public_html/resto/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/etaw7379/public_html/resto/wp-includes/pluggable.php(2227): wp_mail()
+#5 /home/etaw7379/public_html/resto/wp-includes/user.php(3523): wp_new_user_notification()
+#6 /home/etaw7379/public_html/resto/wp-includes/class-wp-hook.php(324): wp_send_new_user_notifications()
+#7 /home/etaw7379/public_html/resto/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/etaw7379/public_html/resto/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/etaw7379/public_html/resto/wp-admin/includes/user.php(247): do_action()
+#10 /home/etaw7379/public_html/resto/wp-admin/user-new.php(198): edit_user()
+#11 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php on line 880
+[09-Apr-2025 04:02:48 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[09-Apr-2025 04:02:48 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[10-Apr-2025 01:28:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php:880
+Stack trace:
+#0 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1968): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1691): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1523): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/etaw7379/public_html/resto/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php(3213): wp_mail()
+#5 /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php(3155): themefood_send_email_wa()
+#6 /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php(2070): themefood_send_whatsapp_bot()
+#7 /home/etaw7379/public_html/resto/wp-includes/class-wp-hook.php(324): update_status_column()
+#8 /home/etaw7379/public_html/resto/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#9 /home/etaw7379/public_html/resto/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/etaw7379/public_html/resto/wp-admin/admin-ajax.php(192): do_action()
+#11 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php on line 880
+[10-Apr-2025 01:31:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php:880
+Stack trace:
+#0 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1968): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1691): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1523): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/etaw7379/public_html/resto/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php(3213): wp_mail()
+#5 /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php(3155): themefood_send_email_wa()
+#6 /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php(2070): themefood_send_whatsapp_bot()
+#7 /home/etaw7379/public_html/resto/wp-includes/class-wp-hook.php(324): update_status_column()
+#8 /home/etaw7379/public_html/resto/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#9 /home/etaw7379/public_html/resto/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/etaw7379/public_html/resto/wp-admin/admin-ajax.php(192): do_action()
+#11 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php on line 880
+[10-Apr-2025 01:41:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[10-Apr-2025 01:42:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[16-Apr-2025 01:44:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[16-Apr-2025 04:29:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[14-Jul-2025 01:59:36 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[14-Jul-2025 01:59:36 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[14-Jul-2025 01:59:52 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[14-Jul-2025 01:59:52 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[14-Jul-2025 02:00:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[14-Jul-2025 02:06:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 1216
+[14-Jul-2025 02:07:28 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[14-Jul-2025 02:07:28 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[14-Jul-2025 02:07:57 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[14-Jul-2025 02:07:57 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[14-Jul-2025 02:17:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php:880
+Stack trace:
+#0 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1968): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1691): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1523): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/etaw7379/public_html/resto/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/etaw7379/public_html/resto/wp-includes/user.php(2712): wp_mail()
+#5 /home/etaw7379/public_html/resto/wp-admin/includes/user.php(233): wp_update_user()
+#6 /home/etaw7379/public_html/resto/wp-admin/user-edit.php(171): edit_user()
+#7 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php on line 880
+[14-Jul-2025 02:18:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php:880
+Stack trace:
+#0 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1968): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1691): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1523): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/etaw7379/public_html/resto/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/etaw7379/public_html/resto/wp-includes/pluggable.php(2227): wp_mail()
+#5 /home/etaw7379/public_html/resto/wp-includes/user.php(3523): wp_new_user_notification()
+#6 /home/etaw7379/public_html/resto/wp-includes/class-wp-hook.php(324): wp_send_new_user_notifications()
+#7 /home/etaw7379/public_html/resto/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/etaw7379/public_html/resto/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/etaw7379/public_html/resto/wp-admin/includes/user.php(247): do_action()
+#10 /home/etaw7379/public_html/resto/wp-admin/user-new.php(198): edit_user()
+#11 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php on line 880
+[14-Jul-2025 02:19:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php:880
+Stack trace:
+#0 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1968): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1691): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1523): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/etaw7379/public_html/resto/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/etaw7379/public_html/resto/wp-includes/pluggable.php(2227): wp_mail()
+#5 /home/etaw7379/public_html/resto/wp-includes/user.php(3523): wp_new_user_notification()
+#6 /home/etaw7379/public_html/resto/wp-includes/class-wp-hook.php(324): wp_send_new_user_notifications()
+#7 /home/etaw7379/public_html/resto/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/etaw7379/public_html/resto/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/etaw7379/public_html/resto/wp-admin/includes/user.php(247): do_action()
+#10 /home/etaw7379/public_html/resto/wp-admin/user-new.php(198): edit_user()
+#11 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php on line 880
+[14-Jul-2025 02:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php:880
+Stack trace:
+#0 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1968): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1691): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php(1523): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/etaw7379/public_html/resto/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/etaw7379/public_html/resto/wp-includes/user.php(2712): wp_mail()
+#5 /home/etaw7379/public_html/resto/wp-admin/includes/user.php(233): wp_update_user()
+#6 /home/etaw7379/public_html/resto/wp-admin/user-edit.php(171): edit_user()
+#7 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/PHPMailer/PHPMailer.php on line 880
+[14-Jul-2025 02:24:35 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[14-Jul-2025 02:24:35 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[14-Jul-2025 02:26:04 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[14-Jul-2025 02:26:04 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[14-Jul-2025 02:26:21 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[14-Jul-2025 02:26:21 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[14-Jul-2025 02:26:23 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[14-Jul-2025 02:26:23 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[14-Jul-2025 02:26:27 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474
+[14-Jul-2025 02:26:27 UTC] PHP Warning:  Undefined array key 1 in /home/etaw7379/public_html/resto/wp-content/plugins/tf-supporter/index.php on line 2474

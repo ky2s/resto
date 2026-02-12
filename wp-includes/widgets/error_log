@@ -1,0 +1,1436 @@
+[01-Nov-2025 19:12:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php on line 17
+[01-Nov-2025 19:12:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php on line 17
+[01-Nov-2025 19:12:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php on line 17
+[01-Nov-2025 19:12:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php on line 17
+[01-Nov-2025 19:12:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[01-Nov-2025 19:12:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[01-Nov-2025 19:12:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[01-Nov-2025 19:12:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[01-Nov-2025 19:12:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[01-Nov-2025 19:12:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[01-Nov-2025 19:12:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[01-Nov-2025 19:12:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[01-Nov-2025 19:12:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php on line 17
+[01-Nov-2025 19:12:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php on line 17
+[01-Nov-2025 19:12:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php on line 17
+[01-Nov-2025 19:12:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php on line 17
+[01-Nov-2025 19:12:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[01-Nov-2025 19:12:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[01-Nov-2025 19:12:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[01-Nov-2025 19:12:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[01-Nov-2025 19:12:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[01-Nov-2025 19:12:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[01-Nov-2025 19:12:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[01-Nov-2025 19:12:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[01-Nov-2025 19:12:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[01-Nov-2025 19:12:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[01-Nov-2025 19:12:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[01-Nov-2025 19:12:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[01-Nov-2025 19:12:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[01-Nov-2025 19:12:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[01-Nov-2025 19:13:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[01-Nov-2025 19:13:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[01-Nov-2025 19:13:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Nov-2025 19:13:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Nov-2025 19:13:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Nov-2025 19:13:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php on line 17
+[01-Nov-2025 19:13:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php on line 17
+[01-Nov-2025 19:13:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Nov-2025 19:13:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[01-Nov-2025 19:13:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[01-Nov-2025 19:13:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php on line 17
+[01-Nov-2025 19:13:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[01-Nov-2025 19:13:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php on line 17
+[01-Nov-2025 19:13:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[01-Nov-2025 19:13:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[01-Nov-2025 19:13:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[01-Nov-2025 19:13:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[01-Nov-2025 19:13:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[01-Nov-2025 19:13:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[01-Nov-2025 19:13:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[01-Nov-2025 19:13:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[01-Nov-2025 19:13:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[01-Nov-2025 19:13:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[01-Nov-2025 19:13:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[01-Nov-2025 19:13:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[01-Nov-2025 19:13:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[01-Nov-2025 19:13:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[01-Nov-2025 19:13:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[01-Nov-2025 19:13:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[01-Nov-2025 19:13:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php on line 17
+[01-Nov-2025 19:13:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php on line 17
+[01-Nov-2025 19:13:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[01-Nov-2025 19:13:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php on line 17
+[01-Nov-2025 19:13:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[01-Nov-2025 19:13:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[01-Nov-2025 19:13:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[01-Nov-2025 19:13:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php on line 17
+[01-Nov-2025 19:13:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[01-Nov-2025 19:13:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[01-Nov-2025 19:13:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[01-Nov-2025 19:13:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[01-Nov-2025 19:13:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php on line 17
+[01-Nov-2025 19:13:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php on line 17
+[01-Nov-2025 19:13:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php on line 17
+[01-Nov-2025 19:13:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[01-Nov-2025 19:13:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[01-Nov-2025 19:13:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[01-Nov-2025 19:13:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php on line 17
+[01-Nov-2025 19:13:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[01-Nov-2025 19:13:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[01-Nov-2025 19:13:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[01-Nov-2025 19:13:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[01-Nov-2025 19:13:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[01-Nov-2025 19:13:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[01-Nov-2025 19:13:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[01-Nov-2025 19:13:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[01-Nov-2025 19:13:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[01-Nov-2025 19:13:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[01-Nov-2025 19:13:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[01-Nov-2025 19:13:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[01-Nov-2025 19:13:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[01-Nov-2025 19:13:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[01-Nov-2025 19:13:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[01-Nov-2025 19:13:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[01-Nov-2025 19:13:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[01-Nov-2025 19:13:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php on line 17
+[01-Nov-2025 19:13:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php on line 17
+[01-Nov-2025 19:13:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php on line 17
+[01-Nov-2025 19:13:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[01-Nov-2025 19:13:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Nov-2025 19:13:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Nov-2025 19:13:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Nov-2025 19:13:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php on line 17
+[01-Nov-2025 19:13:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[01-Nov-2025 19:13:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[01-Nov-2025 19:13:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[01-Nov-2025 19:13:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Nov-2025 19:13:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[01-Nov-2025 19:13:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[01-Nov-2025 19:13:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[01-Nov-2025 19:13:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[01-Nov-2025 19:13:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[01-Nov-2025 19:13:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[01-Nov-2025 19:13:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[01-Nov-2025 19:13:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[01-Nov-2025 19:13:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[01-Nov-2025 19:13:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[01-Nov-2025 19:13:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[01-Nov-2025 19:13:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[01-Nov-2025 19:13:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[01-Nov-2025 19:13:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[01-Nov-2025 19:14:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[01-Nov-2025 19:14:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[01-Nov-2025 19:14:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[01-Nov-2025 19:14:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[01-Nov-2025 19:14:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[01-Nov-2025 19:14:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[01-Nov-2025 19:14:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[01-Nov-2025 19:14:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[01-Nov-2025 19:14:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[01-Nov-2025 19:14:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[01-Nov-2025 19:14:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[01-Nov-2025 19:14:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php on line 17
+[01-Nov-2025 19:14:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php on line 17
+[01-Nov-2025 19:14:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php on line 17
+[01-Nov-2025 19:14:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php on line 17
+[01-Nov-2025 19:14:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[01-Nov-2025 19:14:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[01-Nov-2025 19:14:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[01-Nov-2025 19:14:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[01-Nov-2025 19:14:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[01-Nov-2025 19:14:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[01-Nov-2025 19:14:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[01-Nov-2025 19:14:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[01-Nov-2025 19:14:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php on line 17
+[01-Nov-2025 19:14:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php on line 17
+[01-Nov-2025 19:14:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php on line 17
+[01-Nov-2025 19:14:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php on line 17
+[01-Nov-2025 19:14:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[01-Nov-2025 19:14:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[01-Nov-2025 19:14:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[01-Nov-2025 19:14:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[01-Nov-2025 19:14:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[01-Nov-2025 19:14:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[01-Nov-2025 19:14:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[01-Nov-2025 19:14:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[01-Nov-2025 19:14:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[01-Nov-2025 19:14:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[01-Nov-2025 19:14:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[01-Nov-2025 19:14:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[20-Nov-2025 04:08:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[20-Nov-2025 04:08:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[20-Nov-2025 04:08:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[20-Nov-2025 04:08:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[20-Nov-2025 04:08:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[20-Nov-2025 04:08:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[20-Nov-2025 04:08:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[20-Nov-2025 04:08:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[20-Nov-2025 04:08:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[20-Nov-2025 04:08:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[20-Nov-2025 04:08:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[20-Nov-2025 04:08:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[20-Nov-2025 04:08:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[20-Nov-2025 04:08:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[20-Nov-2025 04:08:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[20-Nov-2025 04:08:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[20-Nov-2025 04:08:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[20-Nov-2025 04:08:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[20-Nov-2025 04:08:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[20-Nov-2025 04:08:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[20-Nov-2025 04:08:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[20-Nov-2025 04:08:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[20-Nov-2025 04:08:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[20-Nov-2025 04:08:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[20-Nov-2025 04:08:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[20-Nov-2025 04:08:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php on line 17
+[20-Nov-2025 04:08:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[20-Nov-2025 04:08:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php on line 17
+[20-Nov-2025 04:08:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[20-Nov-2025 04:08:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php on line 17
+[20-Nov-2025 04:08:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[20-Nov-2025 04:08:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php on line 17
+[20-Nov-2025 04:08:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[20-Nov-2025 04:08:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[20-Nov-2025 04:08:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[20-Nov-2025 04:08:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[20-Nov-2025 04:08:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[20-Nov-2025 04:08:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[20-Nov-2025 04:08:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[20-Nov-2025 04:08:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[20-Nov-2025 04:08:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php on line 17
+[20-Nov-2025 04:08:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[20-Nov-2025 04:08:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php on line 17
+[20-Nov-2025 04:08:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[20-Nov-2025 04:08:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php on line 17
+[20-Nov-2025 04:08:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[20-Nov-2025 04:08:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php on line 17
+[20-Nov-2025 04:08:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[20-Nov-2025 04:08:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[20-Nov-2025 04:08:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[20-Nov-2025 04:08:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[20-Nov-2025 04:08:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[20-Nov-2025 04:08:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[20-Nov-2025 04:08:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[20-Nov-2025 04:09:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[20-Nov-2025 04:09:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[20-Nov-2025 04:09:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[20-Nov-2025 04:09:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[20-Nov-2025 04:09:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[20-Nov-2025 04:09:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[20-Nov-2025 04:09:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[20-Nov-2025 04:09:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[20-Nov-2025 04:09:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[20-Nov-2025 04:09:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[20-Nov-2025 04:09:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[20-Nov-2025 04:09:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[20-Nov-2025 04:09:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[20-Nov-2025 04:09:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[20-Nov-2025 04:09:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[20-Nov-2025 04:09:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[20-Nov-2025 04:09:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[20-Nov-2025 04:09:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[20-Nov-2025 04:09:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[20-Nov-2025 04:09:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[20-Nov-2025 04:09:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[20-Nov-2025 04:09:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[20-Nov-2025 04:09:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[20-Nov-2025 04:09:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[20-Nov-2025 04:09:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[20-Nov-2025 04:09:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[20-Nov-2025 04:09:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[20-Nov-2025 04:09:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[20-Nov-2025 04:09:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[20-Nov-2025 04:09:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[20-Nov-2025 04:09:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[20-Nov-2025 04:09:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[20-Nov-2025 04:09:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[20-Nov-2025 04:09:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Nov-2025 04:09:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[20-Nov-2025 04:09:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Nov-2025 04:09:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[20-Nov-2025 04:09:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[20-Nov-2025 04:09:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[20-Nov-2025 04:09:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Nov-2025 04:09:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[20-Nov-2025 04:09:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Nov-2025 04:09:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[20-Nov-2025 04:09:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php on line 17
+[20-Nov-2025 04:09:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[20-Nov-2025 04:09:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php on line 17
+[20-Nov-2025 04:09:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[20-Nov-2025 04:09:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php on line 17
+[20-Nov-2025 04:09:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[20-Nov-2025 04:09:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php on line 17
+[20-Nov-2025 04:09:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Nov-2025 04:09:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[20-Nov-2025 04:09:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Nov-2025 04:09:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[20-Nov-2025 04:09:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Nov-2025 04:09:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[20-Nov-2025 04:09:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Nov-2025 04:09:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[20-Nov-2025 04:09:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php on line 17
+[20-Nov-2025 04:09:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php on line 17
+[20-Nov-2025 04:09:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php on line 17
+[20-Nov-2025 04:09:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php on line 17
+[20-Nov-2025 04:09:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php on line 17
+[20-Nov-2025 04:09:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php on line 17
+[20-Nov-2025 04:09:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php on line 17
+[20-Nov-2025 04:09:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php on line 17
+[20-Nov-2025 04:09:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[20-Nov-2025 04:09:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[20-Nov-2025 04:09:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[20-Nov-2025 04:09:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[20-Nov-2025 04:09:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[20-Nov-2025 04:09:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[20-Nov-2025 04:09:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[20-Nov-2025 04:09:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[20-Nov-2025 04:09:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[20-Nov-2025 04:09:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[20-Nov-2025 04:09:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php on line 17
+[20-Nov-2025 04:09:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php on line 17
+[20-Nov-2025 04:09:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[20-Nov-2025 04:09:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php on line 17
+[20-Nov-2025 04:09:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[20-Nov-2025 04:09:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[20-Nov-2025 04:09:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php on line 17
+[20-Nov-2025 04:09:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[20-Nov-2025 04:09:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[20-Nov-2025 04:09:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[20-Nov-2025 04:09:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[20-Nov-2025 04:09:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[20-Nov-2025 04:09:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[20-Nov-2025 04:09:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php on line 17
+[20-Nov-2025 04:09:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[20-Nov-2025 04:09:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php on line 17
+[20-Nov-2025 04:09:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[20-Nov-2025 04:09:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[20-Nov-2025 04:09:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php on line 17
+[20-Nov-2025 04:09:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[20-Nov-2025 04:10:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php on line 17
+[20-Nov-2025 04:10:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[20-Nov-2025 04:10:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[20-Nov-2025 04:10:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[20-Nov-2025 04:10:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[20-Nov-2025 04:10:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[20-Nov-2025 04:10:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php on line 17
+[20-Nov-2025 04:10:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php on line 17
+[20-Nov-2025 04:10:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php on line 17
+[20-Nov-2025 04:10:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php on line 17
+[17-Dec-2025 17:34:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[17-Dec-2025 17:34:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[17-Dec-2025 17:34:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[17-Dec-2025 17:34:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[17-Dec-2025 17:34:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[17-Dec-2025 17:34:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php on line 17
+[17-Dec-2025 17:35:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[17-Dec-2025 17:35:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[17-Dec-2025 17:35:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[17-Dec-2025 17:35:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php on line 17
+[17-Dec-2025 17:35:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Dec-2025 17:35:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[17-Dec-2025 17:35:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php on line 17
+[17-Dec-2025 17:35:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[17-Dec-2025 17:35:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[17-Dec-2025 17:35:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php on line 17
+[17-Dec-2025 17:35:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[17-Dec-2025 17:35:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[17-Dec-2025 17:35:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[17-Dec-2025 17:35:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[17-Dec-2025 17:35:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[17-Dec-2025 17:35:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[17-Dec-2025 17:35:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[17-Dec-2025 17:35:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[17-Dec-2025 17:35:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-text.php on line 17
+[17-Dec-2025 17:35:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[17-Dec-2025 17:35:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[17-Dec-2025 17:35:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[17-Dec-2025 17:35:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-media.php on line 17
+[17-Dec-2025 17:35:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Dec-2025 17:35:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[17-Dec-2025 17:35:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-links.php on line 17
+[17-Dec-2025 17:35:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[17-Dec-2025 17:35:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[17-Dec-2025 17:35:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-search.php on line 17
+[17-Dec-2025 17:35:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[17-Dec-2025 17:35:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[17-Dec-2025 17:35:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[17-Dec-2025 17:35:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17

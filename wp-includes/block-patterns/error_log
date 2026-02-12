@@ -1,0 +1,476 @@
+[01-Nov-2025 19:02:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[01-Nov-2025 19:02:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[01-Nov-2025 19:02:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[01-Nov-2025 19:02:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[01-Nov-2025 19:02:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php on line 9
+[01-Nov-2025 19:02:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php on line 9
+[01-Nov-2025 19:02:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php on line 9
+[01-Nov-2025 19:02:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php on line 9
+[01-Nov-2025 19:02:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php on line 11
+[01-Nov-2025 19:02:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php on line 11
+[01-Nov-2025 19:02:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php on line 11
+[01-Nov-2025 19:02:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php on line 11
+[01-Nov-2025 19:03:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php on line 9
+[01-Nov-2025 19:03:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php on line 9
+[01-Nov-2025 19:03:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php on line 9
+[01-Nov-2025 19:03:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php on line 9
+[01-Nov-2025 19:03:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php on line 9
+[01-Nov-2025 19:03:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php on line 9
+[01-Nov-2025 19:03:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php on line 9
+[01-Nov-2025 19:03:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php on line 9
+[01-Nov-2025 19:03:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php on line 9
+[01-Nov-2025 19:03:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php on line 9
+[01-Nov-2025 19:03:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php on line 9
+[01-Nov-2025 19:03:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php on line 9
+[01-Nov-2025 19:03:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php on line 9
+[01-Nov-2025 19:03:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php on line 9
+[01-Nov-2025 19:03:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php on line 9
+[01-Nov-2025 19:04:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php on line 9
+[01-Nov-2025 19:04:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[01-Nov-2025 19:04:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[01-Nov-2025 19:04:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[01-Nov-2025 19:04:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[01-Nov-2025 19:04:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php on line 9
+[01-Nov-2025 19:04:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php on line 9
+[01-Nov-2025 19:04:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php on line 9
+[01-Nov-2025 19:04:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php on line 9
+[01-Nov-2025 19:04:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php on line 11
+[01-Nov-2025 19:04:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php on line 11
+[01-Nov-2025 19:04:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php on line 11
+[01-Nov-2025 19:04:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php on line 11
+[01-Nov-2025 19:04:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php on line 9
+[01-Nov-2025 19:04:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php on line 9
+[01-Nov-2025 19:04:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php on line 9
+[01-Nov-2025 19:04:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php on line 9
+[01-Nov-2025 19:04:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php on line 9
+[01-Nov-2025 19:04:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php on line 9
+[01-Nov-2025 19:05:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php on line 9
+[01-Nov-2025 19:05:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php on line 9
+[01-Nov-2025 19:05:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php on line 9
+[01-Nov-2025 19:05:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php on line 9
+[01-Nov-2025 19:05:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php on line 9
+[01-Nov-2025 19:05:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php on line 9
+[01-Nov-2025 19:05:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php on line 9
+[01-Nov-2025 19:05:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php on line 9
+[01-Nov-2025 19:05:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php on line 9
+[01-Nov-2025 19:06:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php on line 9
+[20-Nov-2025 04:31:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php on line 9
+[20-Nov-2025 04:31:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php on line 9
+[20-Nov-2025 04:31:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php on line 9
+[20-Nov-2025 04:31:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php on line 9
+[20-Nov-2025 04:31:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php on line 9
+[20-Nov-2025 04:31:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php on line 9
+[20-Nov-2025 04:31:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php on line 9
+[20-Nov-2025 04:31:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php on line 9
+[20-Nov-2025 04:31:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php on line 11
+[20-Nov-2025 04:31:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php on line 11
+[20-Nov-2025 04:31:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php on line 11
+[20-Nov-2025 04:31:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php on line 11
+[20-Nov-2025 04:31:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php on line 11
+[20-Nov-2025 04:31:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php on line 11
+[20-Nov-2025 04:31:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php on line 11
+[20-Nov-2025 04:31:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php on line 9
+[20-Nov-2025 04:31:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php on line 9
+[20-Nov-2025 04:31:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php on line 11
+[20-Nov-2025 04:31:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php on line 9
+[20-Nov-2025 04:31:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php on line 9
+[20-Nov-2025 04:31:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php on line 9
+[20-Nov-2025 04:31:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php on line 9
+[20-Nov-2025 04:31:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php on line 9
+[20-Nov-2025 04:31:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php on line 9
+[20-Nov-2025 04:31:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php on line 9
+[20-Nov-2025 04:31:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php on line 9
+[20-Nov-2025 04:31:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php on line 9
+[20-Nov-2025 04:31:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php on line 9
+[20-Nov-2025 04:31:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php on line 9
+[20-Nov-2025 04:31:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php on line 9
+[20-Nov-2025 04:31:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php on line 9
+[20-Nov-2025 04:31:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php on line 9
+[20-Nov-2025 04:31:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php on line 9
+[20-Nov-2025 04:31:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php on line 9
+[20-Nov-2025 04:31:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php on line 9
+[20-Nov-2025 04:31:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php on line 9
+[20-Nov-2025 04:31:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php on line 9
+[20-Nov-2025 04:31:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php on line 9
+[20-Nov-2025 04:31:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php on line 9
+[20-Nov-2025 04:31:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[20-Nov-2025 04:31:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[20-Nov-2025 04:31:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[20-Nov-2025 04:31:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php on line 9
+[20-Nov-2025 04:31:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[20-Nov-2025 04:31:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[20-Nov-2025 04:31:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[20-Nov-2025 04:31:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[20-Nov-2025 04:31:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php on line 9
+[20-Nov-2025 04:31:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php on line 9
+[20-Nov-2025 04:31:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php on line 9
+[20-Nov-2025 04:31:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[20-Nov-2025 04:31:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php on line 9
+[20-Nov-2025 04:31:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php on line 9
+[20-Nov-2025 04:31:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php on line 9
+[20-Nov-2025 04:31:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php on line 9
+[20-Nov-2025 04:31:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php on line 9
+[17-Dec-2025 17:35:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-medium-posts.php on line 9
+[17-Dec-2025 17:35:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-standard-posts.php on line 9
+[17-Dec-2025 17:35:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-small-posts.php on line 9
+[17-Dec-2025 17:35:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[17-Dec-2025 17:35:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-offset-posts.php on line 9
+[17-Dec-2025 17:35:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/social-links-shared-background-color.php on line 11
+[17-Dec-2025 17:35:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/block-patterns/query-grid-posts.php on line 9

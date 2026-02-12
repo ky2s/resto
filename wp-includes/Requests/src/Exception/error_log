@@ -1,0 +1,216 @@
+[01-Nov-2025 19:14:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php on line 17
+[01-Nov-2025 19:14:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php on line 17
+[01-Nov-2025 19:14:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php on line 17
+[01-Nov-2025 19:14:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php on line 17
+[01-Nov-2025 19:14:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[01-Nov-2025 19:14:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[01-Nov-2025 19:14:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[01-Nov-2025 19:14:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[01-Nov-2025 19:14:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php on line 18
+[01-Nov-2025 19:14:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php on line 18
+[01-Nov-2025 19:14:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php on line 18
+[01-Nov-2025 19:14:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php on line 18
+[01-Nov-2025 19:15:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php on line 17
+[01-Nov-2025 19:15:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php on line 17
+[01-Nov-2025 19:15:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php on line 17
+[01-Nov-2025 19:15:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php on line 17
+[01-Nov-2025 19:15:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[01-Nov-2025 19:16:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[01-Nov-2025 19:16:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[01-Nov-2025 19:16:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[01-Nov-2025 19:16:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php on line 18
+[01-Nov-2025 19:16:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php on line 18
+[01-Nov-2025 19:16:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php on line 18
+[01-Nov-2025 19:16:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php on line 18
+[20-Nov-2025 04:16:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php on line 17
+[20-Nov-2025 04:16:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php on line 17
+[20-Nov-2025 04:16:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php on line 17
+[20-Nov-2025 04:16:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php on line 17
+[20-Nov-2025 04:16:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php on line 18
+[20-Nov-2025 04:16:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php on line 18
+[20-Nov-2025 04:16:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php on line 18
+[20-Nov-2025 04:16:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php on line 17
+[20-Nov-2025 04:16:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php on line 17
+[20-Nov-2025 04:16:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php on line 18
+[20-Nov-2025 04:16:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[20-Nov-2025 04:16:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php on line 17
+[20-Nov-2025 04:16:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[20-Nov-2025 04:16:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[20-Nov-2025 04:16:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php on line 17
+[20-Nov-2025 04:16:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php on line 18
+[20-Nov-2025 04:16:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[20-Nov-2025 04:16:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php on line 18
+[20-Nov-2025 04:16:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php on line 18
+[20-Nov-2025 04:16:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php on line 18
+[20-Nov-2025 04:16:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[20-Nov-2025 04:16:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[20-Nov-2025 04:17:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[20-Nov-2025 04:17:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[17-Dec-2025 17:36:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[17-Dec-2025 17:36:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php on line 17
+[17-Dec-2025 17:36:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php on line 18
+[17-Dec-2025 17:37:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[17-Dec-2025 17:37:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Transport.php on line 17
+[17-Dec-2025 17:37:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Exception/Http.php on line 18

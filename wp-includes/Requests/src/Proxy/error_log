@@ -1,0 +1,72 @@
+[01-Nov-2025 19:14:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php on line 24
+[01-Nov-2025 19:14:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php on line 24
+[01-Nov-2025 19:14:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php on line 24
+[01-Nov-2025 19:14:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php on line 24
+[01-Nov-2025 19:14:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php on line 24
+[01-Nov-2025 19:14:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php on line 24
+[01-Nov-2025 19:15:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php on line 24
+[01-Nov-2025 19:15:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php on line 24
+[20-Nov-2025 04:16:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php on line 24
+[20-Nov-2025 04:16:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php on line 24
+[20-Nov-2025 04:16:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php on line 24
+[20-Nov-2025 04:16:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php on line 24
+[20-Nov-2025 04:16:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php on line 24
+[20-Nov-2025 04:16:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php on line 24
+[20-Nov-2025 04:16:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php on line 24
+[20-Nov-2025 04:16:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php on line 24
+[17-Dec-2025 17:36:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php on line 24
+[17-Dec-2025 17:36:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Proxy/Http.php on line 24

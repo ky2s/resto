@@ -1,0 +1,204 @@
+[01-Nov-2025 18:36:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[01-Nov-2025 18:36:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[01-Nov-2025 18:36:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[01-Nov-2025 18:36:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[01-Nov-2025 18:36:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[01-Nov-2025 18:36:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[01-Nov-2025 18:36:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[01-Nov-2025 18:36:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[01-Nov-2025 18:36:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[01-Nov-2025 18:36:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[01-Nov-2025 18:36:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[01-Nov-2025 18:36:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[01-Nov-2025 18:36:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[01-Nov-2025 18:36:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[01-Nov-2025 18:36:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[01-Nov-2025 18:36:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[01-Nov-2025 18:36:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[01-Nov-2025 18:36:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[01-Nov-2025 18:36:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[01-Nov-2025 18:36:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[01-Nov-2025 18:36:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[01-Nov-2025 18:36:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[01-Nov-2025 18:36:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[01-Nov-2025 18:36:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Nov-2025 04:23:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Nov-2025 04:23:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Nov-2025 04:23:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Nov-2025 04:23:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Nov-2025 04:23:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Nov-2025 04:23:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Nov-2025 04:23:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Nov-2025 04:23:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Nov-2025 04:23:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Nov-2025 04:23:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Nov-2025 04:23:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Nov-2025 04:23:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Nov-2025 04:23:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Nov-2025 04:23:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Nov-2025 04:23:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Nov-2025 04:23:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[20-Nov-2025 04:23:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Nov-2025 04:23:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Nov-2025 04:23:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Nov-2025 04:23:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[20-Nov-2025 04:23:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Nov-2025 04:23:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Nov-2025 04:23:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[20-Nov-2025 04:23:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[17-Dec-2025 17:36:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[17-Dec-2025 17:36:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[17-Dec-2025 17:36:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17

@@ -1,0 +1,72 @@
+[01-Nov-2025 18:50:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[01-Nov-2025 18:50:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[01-Nov-2025 18:50:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[01-Nov-2025 18:50:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[01-Nov-2025 18:51:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[01-Nov-2025 18:51:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[01-Nov-2025 18:51:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[01-Nov-2025 18:51:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[20-Nov-2025 04:24:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[20-Nov-2025 04:24:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[20-Nov-2025 04:24:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[20-Nov-2025 04:24:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[20-Nov-2025 04:24:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[20-Nov-2025 04:24:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[20-Nov-2025 04:24:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[20-Nov-2025 04:24:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[17-Dec-2025 17:34:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[17-Dec-2025 17:34:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/lib/ristretto255.php on line 6

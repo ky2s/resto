@@ -1,0 +1,1678 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ThemeFood\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-15 23:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: themefood"
+
+#: functions.php:407
+msgid "\">Klik disini</a> untuk memasukkan lisensi."
+msgstr ""
+
+#: inc/theme-options.php:1771 inc/theme-options.php:1786
+#: inc/theme-options.php:1816 inc/theme-options.php:1876
+#: inc/theme-options.php:2075 inc/theme-options.php:2090
+msgid ")"
+msgstr ""
+
+#: inc/theme-options.php:1937
+msgid ""
+"/?gateway=moota</code> ke dalam pengaturan <a href=\"https://app.moota."
+"co/integrations/webhook\" target=\"_blank\">webhook Moota</a>."
+msgstr ""
+
+#: inc/theme-options.php:1236
+msgid "2 Digit"
+msgstr ""
+
+#: inc/theme-options.php:1571
+msgid "21 Express"
+msgstr ""
+
+#: inc/theme-options.php:1241
+msgid "3 Digit"
+msgstr ""
+
+#: inc/theme-options.php:2255
+msgid ""
+"<strong>Opsional</strong>. Masukkan instruksi singkat terkait tata cara "
+"metode bayar di kasir"
+msgstr ""
+
+#: inc/theme-options.php:2225
+msgid ""
+"<strong>Opsional</strong>. Masukkan instruksi singkat terkait tata cara "
+"metode pembayaran via COD"
+msgstr ""
+
+#: inc/theme-options.php:2195
+msgid ""
+"<strong>Opsional</strong>. Masukkan instruksi singkat terkait tata cara "
+"metode pembayaran via Transfer Bank"
+msgstr ""
+
+#: inc/theme-options.php:66 inc/theme-options.php:2842
+msgid "Admin Theme"
+msgstr ""
+
+#: inc/theme-options.php:502
+msgid "Aktif / Nonaktifkan fitur Auto Slide pada slider halaman Katalog"
+msgstr ""
+
+#: inc/theme-options.php:368
+msgid "Aktif / Nonaktifkan fitur page loader pada awal load halaman Katalog"
+msgstr ""
+
+#: inc/theme-options.php:2753
+msgid ""
+"Aktif / Nonaktifkan fitur Progressive Web App (PWA) yang membuat website "
+"semakin cepat dan dapat diakses secara offline"
+msgstr ""
+
+#: inc/theme-options.php:2723
+msgid "Aktif / Nonaktifkan fitur Sales Popup pada halaman Katalog"
+msgstr ""
+
+#: inc/theme-options.php:1345
+msgid ""
+"Aktif / Nonaktifkan fitur Shipping Switcher untuk berganti metode pengiriman "
+"(Kurir & Ojek Online) di halaman keranjang."
+msgstr ""
+
+#: inc/theme-options.php:1802
+msgid ""
+"Aktif / Nonaktifkan perhitungan tarif dasar flat dalam jangkauan sekian KM."
+msgstr ""
+
+#: inc/theme-options.php:2858
+msgid "Aktif / Nonaktifkan tampilan custom admin theme ala ThemeFood"
+msgstr ""
+
+#: inc/theme-options.php:501
+msgid "Aktifkan Auto Slide"
+msgstr ""
+
+#: functions.php:723
+msgid "Aktifkan Lisensi"
+msgstr ""
+
+#: inc/theme-options.php:2752
+msgid "Aktifkan PWA"
+msgstr ""
+
+#: inc/theme-options.php:2722
+msgid "Aktifkan Sales Popup"
+msgstr ""
+
+#: inc/theme-options.php:1344
+msgid "Aktifkan Shipping Switcher"
+msgstr ""
+
+#: inc/theme-options.php:1801
+msgid "Aktifkan Tarif Dasar"
+msgstr ""
+
+#: inc/theme-options.php:2857
+msgid "Aktifkan Tema Admin"
+msgstr ""
+
+#: page-katalog.php:452
+msgid "Alamat Email"
+msgstr ""
+
+#: page-katalog.php:455
+msgid "Alamat Lengkap"
+msgstr ""
+
+#: inc/theme-options.php:121
+msgid "Alamat Toko"
+msgstr ""
+
+#: inc/theme-options.php:824
+msgid "Alternatif"
+msgstr ""
+
+#: page-katalog.php:587
+msgid "Anda akan diarahkan ke WhatsApp untuk pemesanan"
+msgstr ""
+
+#: inc/theme-options.php:2299
+msgid "API Key"
+msgstr ""
+
+#: inc/theme-options.php:1638
+msgid "API OpenRoute"
+msgstr ""
+
+#: inc/theme-options.php:1426
+msgid "API RajaOngkir"
+msgstr ""
+
+#: inc/theme-options.php:1907
+msgid ""
+"Atur jumlah meja yang tersedia jika mengaktifkan pemesanan untuk makan di "
+"tempat / Dine-In"
+msgstr ""
+
+#: page-katalog.php:292
+msgid "Atur pesanan"
+msgstr ""
+
+#: inc/theme-options.php:152
+msgid ""
+"Atur status toko saat ini. Jika toko sedang tutup maka keranjang belanja "
+"tidak bisa dibuka."
+msgstr ""
+
+#: inc/theme-options.php:2782
+msgid "Background Color"
+msgstr ""
+
+#: inc/theme-options.php:283
+msgid "Background Header"
+msgstr ""
+
+#: inc/theme-options.php:268
+msgid "Background Katalog"
+msgstr ""
+
+#: inc/theme-options.php:70
+msgid "Bantuan"
+msgstr ""
+
+#: inc/theme-options.php:1998
+msgid "Batas Pengecekan (hari)"
+msgstr ""
+
+#: inc/theme-options.php:1384 inc/theme-options.php:2239
+msgid "Bayar di Kasir"
+msgstr ""
+
+#: inc/theme-options.php:2888
+msgid ""
+"Berikut adalah referensi ukuran format gambar yang digunakan ThemeFood:<br>\n"
+"<p style=\"margin: 10px 0!important;\"><strong>Foto Slider ( 500 x 286 px )"
+"</strong></p>\n"
+"<img style=\"max-width: 100%;\" src=\"https://via.placeholder.com/500x286\" "
+"/>\n"
+"<p style=\"margin: 10px 0!important;\"><strong>Katalog Produk ( 555 x 555 px "
+")</strong></p>\n"
+"<img style=\"max-width: 100%;\" src=\"https://via.placeholder.com/555x555\" "
+"/>\n"
+"<p style=\"margin: 10px 0!important;\"><strong>Info Toko ( 555 x 315 px )"
+"</strong></p>\n"
+"<img style=\"max-width: 100%;\" src=\"https://via.placeholder.com/555x315\" "
+"/>\n"
+"<p style=\"margin: 10px 0!important;\"><strong>Foto CS ( 112 x 112 px )"
+"</strong></p>\n"
+"<img style=\"max-width: 100%;\" src=\"https://via.placeholder.com/112x112\" "
+"/>\n"
+"<p style=\"margin: 10px 0!important;\"><strong>Kategori Produk ( 200 x 87 px "
+")</strong></p>\n"
+"<img style=\"max-width: 100%;\" src=\"https://via.placeholder.com/200x87\" />"
+msgstr ""
+
+#: inc/theme-options.php:2928
+msgid ""
+"Berikut adalah shortcode yang bisa anda gunakan dalam menyusun format order "
+"dan format follow-up pada halaman ini:<br>\n"
+"<ul>\n"
+"<li><strong>[id]</strong> ID Orderan</li>\n"
+"<li><strong>[nama]</strong> Nama Lengkap Customer</li>\n"
+"<li><strong>[nowa]</strong> No WhatsApp Customer</li>\n"
+"<li><strong>[email]</strong> Alamat Email Customer</li>\n"
+"<li><strong>[alamat]</strong> Alamat Lengkap Customer</li>\n"
+"<li><strong>[kecamatan]</strong> Kecamatan Customer</li>\n"
+"<li><strong>[lokasi]</strong> Link Maps Lokasi Customer</li>\n"
+"<li><strong>[meja]</strong> No Meja Customer (Untuk Dine In)</li>\n"
+"<li><strong>[produk]</strong> List Produk yang Dipesan</li>\n"
+"<li><strong>[subtotal]</strong> Jumlah Subtotal Orderan</li>\n"
+"<li><strong>[ongkir]</strong> Ongkos Kirim Orderan</li>\n"
+"<li><strong>[diskon]</strong> Diskon yang Digunakan</li>\n"
+"<li><strong>[unik]</strong> Kode Unik Orderan</li>\n"
+"<li><strong>[total]</strong> Jumlah Total Orderan</li>\n"
+"<li><strong>[pembayaran]</strong> Metode Pembayaran yang Dipilih</li>\n"
+"<li><strong>[instruksi]</strong> Instruksi Pembayaran Sesuai Metode yang "
+"Dipilih</li>\n"
+"<li><strong>[struk]</strong> Link Struk Orderan</li>\n"
+"</ul>"
+msgstr ""
+
+#: inc/theme-options.php:792
+msgid "Berurutan"
+msgstr ""
+
+#. Name of the template
+msgid "Blank Canvas"
+msgstr ""
+
+#: inc/theme-options.php:166
+msgid "Buka"
+msgstr ""
+
+#: inc/theme-options.php:595
+msgid "Bukalapak"
+msgstr ""
+
+#: inc/theme-options.php:414
+msgid "Bunny Hostname"
+msgstr ""
+
+#: inc/theme-options.php:402
+msgid "BunnyCDN"
+msgstr ""
+
+#: inc/theme-options.php:325
+msgid "Button Color"
+msgstr ""
+
+#: inc/theme-options.php:531
+msgid "Call-To-Action"
+msgstr ""
+
+#: inc/theme-options.php:901
+msgid "Cards"
+msgstr ""
+
+#: inc/theme-options.php:382
+msgid "CDN"
+msgstr ""
+
+#: inc/theme-options.php:46
+msgid "Checkout"
+msgstr ""
+
+#: inc/theme-options.php:1379
+msgid "COD"
+msgstr ""
+
+#: inc/theme-options.php:2209
+msgid "COD (Cash On Delivery)"
+msgstr ""
+
+#: inc/theme-options.php:906
+msgid "Compact"
+msgstr ""
+
+#: inc/theme-options.php:1042
+msgid "Copyright"
+msgstr ""
+
+#: inc/theme-options.php:1058
+msgid "Copyright text pada bagian footer halaman Katalog"
+msgstr ""
+
+#: inc/theme-options.php:313
+msgid "Dark"
+msgstr ""
+
+#: inc/theme-options.php:2135
+msgid "Data Bank"
+msgstr ""
+
+#: inc/theme-options.php:819 inc/theme-options.php:953
+msgid "Default"
+msgstr ""
+
+#: inc/theme-options.php:1295
+msgid "Delivery"
+msgstr ""
+
+#: inc/theme-options.php:1290
+msgid "Delivery &amp; Dine-In"
+msgstr ""
+
+#: inc/theme-options.php:253
+msgid "Desain"
+msgstr ""
+
+#: inc/theme-options.php:2284
+msgid "Deskripsi Durianpay"
+msgstr ""
+
+#: inc/theme-options.php:1861
+msgid "Deskripsi Flat"
+msgstr ""
+
+#: inc/theme-options.php:1411
+msgid "Deskripsi Kurir"
+msgstr ""
+
+#: inc/theme-options.php:1936
+msgid "Deskripsi Moota"
+msgstr ""
+
+#: inc/theme-options.php:1608
+msgid "Deskripsi Ojol"
+msgstr ""
+
+#: inc/theme-options.php:2707
+msgid "Deskripsi Salespop"
+msgstr ""
+
+#: inc/theme-options.php:360
+msgid "Desktop View"
+msgstr ""
+
+#: inc/theme-options.php:1986 inc/theme-options.php:2349
+msgid "Diantar"
+msgstr ""
+
+#: inc/theme-options.php:1221
+msgid "Digit Kode Unik"
+msgstr ""
+
+#: inc/theme-options.php:1891
+msgid "Dine In"
+msgstr ""
+
+#: inc/theme-options.php:1300
+msgid "Dine-In"
+msgstr ""
+
+#: inc/theme-options.php:1981 inc/theme-options.php:2344
+msgid "Diproses"
+msgstr ""
+
+#: page-katalog.php:549
+msgid "Diskon"
+msgstr ""
+
+#: inc/theme-options.php:2063
+msgid "Diskon 100% (Free Ongkir)"
+msgstr ""
+
+#: inc/theme-options.php:2068
+msgid "Diskon Nominal"
+msgstr ""
+
+#: inc/theme-options.php:2028
+msgid "Diskon Ongkir"
+msgstr ""
+
+#: inc/theme-options.php:1389 inc/theme-options.php:2269
+msgid "DurianPay"
+msgstr ""
+
+#: inc/theme-options.php:605
+msgid "Facebook"
+msgstr ""
+
+#: inc/theme-options.php:1566
+msgid "First Logistics"
+msgstr ""
+
+#: inc/theme-options.php:1846
+msgid "Flat"
+msgstr ""
+
+#: inc/theme-options.php:958
+msgid "Floating"
+msgstr ""
+
+#: inc/theme-options.php:50 inc/theme-options.php:2460
+msgid "Follow Up"
+msgstr ""
+
+#: inc/theme-options.php:2475
+msgid "Follow-Up Order Diterima #1"
+msgstr ""
+
+#: inc/theme-options.php:2519
+msgid "Follow-Up Order Diterima #2"
+msgstr ""
+
+#: inc/theme-options.php:2568
+msgid "Follow-Up Order Diterima #3"
+msgstr ""
+
+#: inc/theme-options.php:2504 inc/theme-options.php:2553
+#: inc/theme-options.php:2583
+msgid "Follow-Up Setelah (Jam)"
+msgstr ""
+
+#: page-katalog.php:443
+msgid "Form Pemesanan"
+msgstr ""
+
+#: inc/theme-options.php:2872
+msgid "Format"
+msgstr ""
+
+#: inc/theme-options.php:1087
+msgid "Format Order"
+msgstr ""
+
+#: inc/theme-options.php:494 inc/theme-options.php:963
+msgid "Full Width"
+msgstr ""
+
+#: inc/theme-options.php:575
+msgid "Gojek"
+msgstr ""
+
+#: inc/theme-options.php:580
+msgid "Grab"
+msgstr ""
+
+#: inc/theme-options.php:829
+msgid "Grid"
+msgstr ""
+
+#: inc/theme-options.php:2813 inc/theme-options.php:2828
+msgid ""
+"Gunakan tag <strong>script</strong> secara lengkap jika ingin memasang kode "
+"javascript"
+msgstr ""
+
+#: page-katalog.php:610
+msgid "Histori Pemesanan"
+msgstr ""
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "https://themefood.id"
+msgstr ""
+
+#: inc/theme-options.php:990
+msgid "Icon Archive"
+msgstr ""
+
+#: inc/theme-options.php:995
+msgid "Icon Cafe"
+msgstr ""
+
+#: inc/theme-options.php:1000
+msgid "Icon Cube"
+msgstr ""
+
+#: inc/theme-options.php:1005
+msgid "Icon Gift"
+msgstr ""
+
+#: inc/theme-options.php:1010
+msgid "Icon Ice Cream"
+msgstr ""
+
+#: inc/theme-options.php:975
+msgid "Icon Kategori"
+msgstr ""
+
+#: inc/theme-options.php:1015
+msgid "Icon List"
+msgstr ""
+
+#: inc/theme-options.php:1020
+msgid "Icon Pizza"
+msgstr ""
+
+#: inc/theme-options.php:2797
+msgid "Icon PWA"
+msgstr ""
+
+#: inc/theme-options.php:1025
+msgid "Icon Restaurant"
+msgstr ""
+
+#: inc/theme-options.php:1030
+msgid "Icon Shirt"
+msgstr ""
+
+#: inc/theme-options.php:561
+msgid "Icon Tombol"
+msgstr ""
+
+#: inc/theme-options.php:1035
+msgid "Icon Water"
+msgstr ""
+
+#: inc/theme-options.php:223
+msgid "Icon Website"
+msgstr ""
+
+#: inc/theme-options.php:1526
+msgid "ID Express"
+msgstr ""
+
+#: inc/theme-options.php:1581
+msgid "IDL Cargo"
+msgstr ""
+
+#: inc/theme-options.php:76
+msgid "Info &amp; Alamat"
+msgstr ""
+
+#: inc/theme-options.php:717
+msgid "Info Artikel"
+msgstr ""
+
+#: inc/theme-options.php:2105
+msgid "Info Pembayaran"
+msgstr ""
+
+#: inc/theme-options.php:38
+msgid "Info Toko"
+msgstr ""
+
+#: inc/theme-options.php:610
+msgid "Instagram"
+msgstr ""
+
+#: page-katalog.php:255
+msgid "Install App"
+msgstr ""
+
+#: inc/theme-options.php:2254 inc/theme-options.php:2314
+msgid "Instruksi Bayar"
+msgstr ""
+
+#: inc/theme-options.php:2224
+msgid "Instruksi COD"
+msgstr ""
+
+#: page-katalog.php:301
+msgid "Instruksi Pemesanan"
+msgstr ""
+
+#: inc/theme-options.php:2194
+msgid "Instruksi Transfer"
+msgstr ""
+
+#: inc/theme-options.php:2598
+msgid "Integrasi API"
+msgstr ""
+
+#: inc/theme-options.php:2613
+msgid "Integrasi BOT"
+msgstr ""
+
+#: inc/theme-options.php:516
+msgid "Interval Auto Slide"
+msgstr ""
+
+#: inc/theme-options.php:2737
+msgid "Interval Popup"
+msgstr ""
+
+#: inc/theme-options.php:1787
+msgid ""
+"Isi kolom ini jika anda ingin mengaktifkan tarif flat baik jauh maupun dekat "
+"selama dalam jangkauan pengantaran."
+msgstr ""
+
+#: inc/theme-options.php:1831
+msgid "Jangkauan Tarif Dasar"
+msgstr ""
+
+#: inc/theme-options.php:1516
+msgid "JET Express"
+msgstr ""
+
+#: inc/theme-options.php:1486
+msgid "JNE"
+msgstr ""
+
+#: inc/theme-options.php:1506
+msgid "JNT"
+msgstr ""
+
+#: inc/theme-options.php:732
+msgid "Judul Info"
+msgstr ""
+
+#: inc/theme-options.php:687
+msgid "Judul Widget Chat"
+msgstr ""
+
+#: inc/theme-options.php:459
+msgid "Jumlah Foto Slider"
+msgstr ""
+
+#: inc/theme-options.php:747
+msgid "Jumlah Info"
+msgstr ""
+
+#: inc/theme-options.php:1906
+msgid "Jumlah Meja"
+msgstr ""
+
+#: page-katalog.php:306
+msgid "Jumlah Pesanan"
+msgstr ""
+
+#: inc/theme-options.php:871
+msgid "Jumlah Produk"
+msgstr ""
+
+#: inc/theme-options.php:42
+msgid "Katalog"
+msgstr ""
+
+#. Name of the template
+#: inc/theme-options.php:2812
+msgid "Katalog Produk"
+msgstr ""
+
+#: page-katalog.php:198 inc/theme-options.php:762
+msgid "Kategori"
+msgstr ""
+
+#: page-katalog.php:492
+msgid "Kecamatan"
+msgstr ""
+
+#: inc/theme-options.php:1441
+msgid "Kecamatan Asal"
+msgstr ""
+
+#: inc/theme-options.php:1456
+msgid "Kecamatan ID"
+msgstr ""
+
+#: page-katalog.php:643
+msgid "Kembali Ke Katalog"
+msgstr ""
+
+#: 404.php:18
+msgid "Kembali ke Katalog"
+msgstr ""
+
+#: page-katalog.php:423 inc/theme-options.php:923 inc/theme-options.php:1072
+msgid "Keranjang Belanja"
+msgstr ""
+
+#: inc/theme-options.php:62
+msgid "Kode Footer"
+msgstr ""
+
+#: functions.php:713
+msgid "Kode Lisensi:"
+msgstr ""
+
+#: page-katalog.php:497 inc/theme-options.php:1698
+msgid "Koordinat Lokasi"
+msgstr ""
+
+#: inc/theme-options.php:1714
+msgid "Koordinat Toko"
+msgstr ""
+
+#: inc/theme-options.php:1322 inc/theme-options.php:1396
+msgid "Kurir"
+msgstr ""
+
+#: inc/theme-options.php:1206
+msgid "Label Kode Unik"
+msgstr ""
+
+#: inc/theme-options.php:1623
+msgid "Label Kurir"
+msgstr ""
+
+#: inc/theme-options.php:2628
+msgid "Layanan Bot WhatsApp"
+msgstr ""
+
+#: page-katalog.php:639
+msgid "Lihat Struk"
+msgstr ""
+
+#: inc/theme-options.php:2680
+msgid "Link Follow Up"
+msgstr ""
+
+#: inc/theme-options.php:2665
+msgid "Link FU WhatsApp"
+msgstr ""
+
+#: inc/theme-options.php:627
+msgid "Link Tombol"
+msgstr ""
+
+#: inc/theme-options.php:1521
+msgid "Lion Parcel"
+msgstr ""
+
+#: functions.php:627 functions.php:628
+msgid "Lisensi"
+msgstr ""
+
+#: functions.php:394
+msgid "Lisensi berhasi direset!"
+msgstr ""
+
+#: inc/theme-options.php:2887
+msgid "List Format"
+msgstr ""
+
+#: inc/theme-options.php:2927
+msgid "List Shortcode"
+msgstr ""
+
+#: inc/theme-options.php:208
+msgid "Logo &amp; Icon"
+msgstr ""
+
+#: inc/theme-options.php:238
+msgid "Logo Website"
+msgstr ""
+
+#: inc/theme-options.php:1669
+msgid "Lokasi Toko"
+msgstr ""
+
+#: inc/theme-options.php:547
+msgid "Maksimal 3 tombol yang dapat ditambahkan pada halaman Katalog"
+msgstr ""
+
+#: inc/theme-options.php:1832
+msgid ""
+"Maksimum jangkauan untuk penerapan perhitungan tarif dasar dalam satuan "
+"kilometer."
+msgstr ""
+
+#: inc/theme-options.php:1730
+msgid "Maksimum jangkauan yang bisa ditempuh dari toko dalam satuan kilometer."
+msgstr ""
+
+#: inc/theme-options.php:600
+msgid "Maps"
+msgstr ""
+
+#: inc/theme-options.php:122
+msgid "Masukkan alamat lengkap toko beserta kontak nomor handphone"
+msgstr ""
+
+#: inc/theme-options.php:2300
+msgid ""
+"Masukkan api key (LIVE) layanan DurianPay. Klik <a href=\"https://dashboard."
+"durianpay.id/?#/settings?activeTab=apiKeys\" target=\"_blank\">disini</a> "
+"untuk mendapatkannya."
+msgstr ""
+
+#: inc/theme-options.php:1639
+msgid ""
+"Masukkan API Key OpenRouteService untuk menampilkan maps dan perhitungan "
+"rute jarak. Anda dapat memasukkan lebih dari satu key jika ingin "
+"meningkatkan limitasi default 2000 call / key / bulan. Klik <a href=\"https:"
+"//openrouteservice.org/dev/#/home\" target=\"_blank\">disini</a> untuk "
+"mendapatkan key."
+msgstr ""
+
+#: inc/theme-options.php:1427
+msgid ""
+"Masukkan API RajaOngkir <strong>VERSI PRO</strong> milik anda sendiri agar "
+"lebih stabil. Jika dikosongkan maka akan menggunakan API bersama yang bisa "
+"overload sewaktu-waktu. Klik <a href=\"https://rajaongkir.com/akun/masuk?"
+"lalu=akun/profil\" target=\"_blank\">disini</a> untuk mendapatkannya."
+msgstr ""
+
+#: inc/theme-options.php:2136
+msgid ""
+"Masukkan informasi data bank jika anda mengaktifkan metode pembayaran via "
+"Transfer Bank"
+msgstr ""
+
+#: inc/theme-options.php:2315
+msgid ""
+"Masukkan instruksi singkat terkait tata cara metode pembayaran menggunakan "
+"DurianPay."
+msgstr ""
+
+#: inc/theme-options.php:688
+msgid ""
+"Masukkan judul untuk header widget chat. Default: Ada pertanyaan? Chat aja..."
+msgstr ""
+
+#: inc/theme-options.php:733
+msgid ""
+"Masukkan judul untuk kolom info. Misal: Info resto, Info promo. Default: "
+"Info Artikel."
+msgstr ""
+
+#: inc/theme-options.php:1442
+msgid ""
+"Masukkan kecamatan asal pengiriman. Ketik dan pilih kecamatan dari dropdown "
+"yang muncul."
+msgstr ""
+
+#: inc/theme-options.php:1715
+msgid ""
+"Masukkan koordinat toko dalam format \"Latitude,Longitude\". Misal: -6."
+"1753871,106.8249641."
+msgstr ""
+
+#: inc/theme-options.php:1624
+msgid "Masukkan label kurir, misal: GoSend, Ojek Online, Kurir Toko, dsb."
+msgstr ""
+
+#: inc/theme-options.php:1207
+msgid ""
+"Masukkan label untuk kolom kode unik, misal: Kode Unik, Angka Unik, dsb."
+msgstr ""
+
+#: inc/theme-options.php:239
+msgid ""
+"Masukkan logo dengan format memanjang. Jika logo cenderung berbentuk kotak, "
+"kosongkan kolom ini dan upload logo tersebut pada kolom \"Icon Website\""
+msgstr ""
+
+#: inc/theme-options.php:1670
+msgid ""
+"Masukkan lokasi toko dalam format koordinat \"Latitude,Longitude\". Misal: -"
+"6.1753871,106.8249641. Anda dapat menambahkan lebih dari satu lokasi untuk "
+"mengaktifkan fitur Multi Location."
+msgstr ""
+
+#: inc/theme-options.php:92
+msgid "Masukkan nama toko anda"
+msgstr ""
+
+#: inc/theme-options.php:2076
+msgid ""
+"Masukkan nominal minimum pembelanjaan yang diperlukan oleh customer agar "
+"mendapatkan promo diskon ongkir"
+msgstr ""
+
+#: inc/theme-options.php:2091
+msgid "Masukkan nominal potongan diskon ongkir"
+msgstr ""
+
+#: inc/theme-options.php:1952
+msgid ""
+"Masukkan secret token yang didapat saat proses tambah webhook di halaman <a "
+"href=\"https://app.moota.co/integrations/webhook\" target=\"_blank\">webhook "
+"Moota</a>"
+msgstr ""
+
+#: inc/theme-options.php:107
+msgid "Masukkan slogan / deskripsi singkat toko"
+msgstr ""
+
+#: inc/theme-options.php:703
+msgid ""
+"Masukkan subjudul untuk header widget chat. Default: Biasa menjawab dalam 5 "
+"menit."
+msgstr ""
+
+#: inc/theme-options.php:1817
+msgid ""
+"Masukkan tarif dasar dengan perhitungan flat hingga jangkauan __ KM. Isi "
+"dengan angka 0 jika anda ingin menerapkan free ongkir untuk __ KM pertama. "
+"Jangkauan bisa diatur pada kolom selanjutnya."
+msgstr ""
+
+#: inc/theme-options.php:1877
+msgid "Masukkan tarif ongkos kirim dengan biaya flat ke semua tujuan"
+msgstr ""
+
+#: inc/theme-options.php:1772
+msgid ""
+"Masukkan tarif ongkos kirim per KM (kilometer). Cukup angka, tanpa simbol "
+"mata uang atau titik."
+msgstr ""
+
+#: inc/theme-options.php:857
+msgid ""
+"Masukkan teks untuk placeholder pada kolom Instruksi Pemesanan. Default: "
+"\"Misal: Jangan pedas ya!\""
+msgstr ""
+
+#: inc/theme-options.php:673
+msgid "Masukkan teks untuk tombol chat. Default: Chat CS."
+msgstr ""
+
+#: inc/theme-options.php:2651
+msgid ""
+"Masukkan token key layanan untuk auto follow-up via WhatsApp. Kosongkan "
+"untuk menonaktifkan fitur."
+msgstr ""
+
+#: inc/theme-options.php:415
+msgid ""
+"Masukkan url hostname yang terdapat di Pull Zones BunnyCDN (Misal: xxx.b-cdn."
+"net)"
+msgstr ""
+
+#: inc/theme-options.php:136
+msgid "Mata Uang"
+msgstr ""
+
+#: inc/theme-options.php:1729
+msgid "Max Jangkauan"
+msgstr ""
+
+#: page-katalog.php:597 page-katalog.php:620 page-katalog.php:673
+msgid "Memuat..."
+msgstr ""
+
+#: inc/theme-options.php:1275
+msgid "Metode Checkout"
+msgstr ""
+
+#: inc/theme-options.php:2043
+msgid "Metode Diskon"
+msgstr ""
+
+#: inc/theme-options.php:1248
+msgid "Metode Kode Unik"
+msgstr ""
+
+#: page-katalog.php:575 inc/theme-options.php:1359
+msgid "Metode Pembayaran"
+msgstr ""
+
+#: inc/theme-options.php:1307
+msgid "Metode Pengiriman"
+msgstr ""
+
+#: inc/theme-options.php:1412
+msgid ""
+"Metode pengiriman dari beragam kurir yang ada di Indonesia. Menggunakan API "
+"RajaOngkir PRO untuk mendapatkan tarif hingga level kecamatan. Anda dapat "
+"mengaktifkan beberapa kurir sekaligus dengan centang pada pilihan di bawah "
+"ini."
+msgstr ""
+
+#: inc/theme-options.php:1862
+msgid ""
+"Metode pengiriman dengan perhitungan ongkos kirim flat ke semua tujuan "
+"alamat. Gunakan metode ini hanya jika sesuai dengan kebutuhan dan kondisi "
+"toko anda."
+msgstr ""
+
+#: inc/theme-options.php:1609
+msgid ""
+"Metode pengiriman Ojek Online tidak terintegrasi secara langsung dengan "
+"sistem ojek online yang ada seperti Gojek, Grab, dan lainnya. Dengan metode "
+"ini, anda dapat membuat perhitungan ongkos kirim berdasarkan jarak kilometer "
+"baik dengan biaya per kilometer dari ojek online yang ada atau biaya yang "
+"anda atur sendiri jika menggunakan kurir toko."
+msgstr ""
+
+#: inc/theme-options.php:1744
+msgid "Metode Perhitungan"
+msgstr ""
+
+#: inc/theme-options.php:968
+msgid "Mini Button"
+msgstr ""
+
+#: inc/theme-options.php:355
+msgid "Mobile View"
+msgstr ""
+
+#: inc/theme-options.php:1921
+msgid "Moota"
+msgstr ""
+
+#: inc/theme-options.php:2150
+msgid "Nama Bank"
+msgstr ""
+
+#: page-katalog.php:446
+msgid "Nama Lengkap"
+msgstr ""
+
+#: inc/theme-options.php:1684
+msgid "Nama Lokasi"
+msgstr ""
+
+#: inc/theme-options.php:2178
+msgid "Nama Pemilik"
+msgstr ""
+
+#: inc/theme-options.php:91
+msgid "Nama Toko"
+msgstr ""
+
+#: inc/theme-options.php:1556
+msgid "NCS"
+msgstr ""
+
+#: inc/theme-options.php:1511
+msgid "Ninja Xpress"
+msgstr ""
+
+#: inc/theme-options.php:2164
+msgid "No Rekening"
+msgstr ""
+
+#: page-katalog.php:449
+msgid "No WhatsApp"
+msgstr ""
+
+#: inc/theme-options.php:407 inc/theme-options.php:1337
+msgid "None"
+msgstr ""
+
+#: inc/theme-options.php:2361
+msgid "Notifikasi"
+msgstr ""
+
+#: inc/theme-options.php:2058
+msgid "Off"
+msgstr ""
+
+#: inc/theme-options.php:1327 inc/theme-options.php:1593
+msgid "Ojek Online"
+msgstr ""
+
+#: page-katalog.php:601
+msgid "OK"
+msgstr ""
+
+#: inc/theme-options.php:916
+msgid "One Grid"
+msgstr ""
+
+#: page-katalog.php:543
+msgid "Ongkir"
+msgstr ""
+
+#: inc/theme-options.php:2402
+msgid "Order Diantar"
+msgstr ""
+
+#: inc/theme-options.php:2441
+msgid "Order Dibatalkan"
+msgstr ""
+
+#: inc/theme-options.php:2376
+msgid "Order Diproses"
+msgstr ""
+
+#: page-katalog.php:651
+msgid "Order ID"
+msgstr ""
+
+#. Name of the template
+#: inc/theme-options.php:2827
+msgid "Order Redirect"
+msgstr ""
+
+#: inc/theme-options.php:2422
+msgid "Order Selesai"
+msgstr ""
+
+#: page-katalog.php:631
+msgid "Orderan anda telah kami terima."
+msgstr ""
+
+#: inc/theme-options.php:367
+msgid "Page Loader"
+msgstr ""
+
+#: inc/theme-options.php:1541
+msgid "Pahala"
+msgstr ""
+
+#: inc/theme-options.php:1546
+msgid "Pandu Logistics"
+msgstr ""
+
+#: inc/theme-options.php:489
+msgid "Partial Width"
+msgstr ""
+
+#: inc/theme-options.php:2285
+msgid ""
+"Payment gateway dengan proses registrasi yang mudah dan mendukung beragam "
+"metode pembayaran mulai dari E-Wallet (Dana, OVO, LinkAja, ShopeePay), "
+"Virtual Account (BCA, Mandiri, BRI, BNI, Permata), dan Kartu Kredit / Debit. "
+"<a href=\"https://durianpay.id/?utm_source=themefood\" target=\"_blank\">"
+"Pelajari lebih lanjut</a>.<br><a href=\"https://dashboard.durianpay.id/?"
+"#/settings/webhooks/new\" target=\"_blank\">Webhook URL</a>: <code>https:"
+"//demo.themefood.id/?gateway=durianpay</code>"
+msgstr ""
+
+#: page-order.php:130
+msgid "Pembayaran dilakukan melalui link berikut:"
+msgstr ""
+
+#: inc/theme-options.php:1263
+msgid "Penambahan"
+msgstr ""
+
+#: inc/theme-options.php:1999
+msgid ""
+"Pengecekan orderan berdasarkan x hari ke belakang. (Default: 7 hari ke "
+"belakang)"
+msgstr ""
+
+#: inc/theme-options.php:1268
+msgid "Pengurangan"
+msgstr ""
+
+#: template-parts/content.php:61
+msgid "Pesan Produk"
+msgstr ""
+
+#: inc/theme-options.php:178
+msgid "Pesan Saat Tutup"
+msgstr ""
+
+#: page-katalog.php:586
+msgid "Pesan Sekarang"
+msgstr ""
+
+#: inc/theme-options.php:179
+msgid "Pesan yang ditampilkan ketika klik tombol keranjang saat toko tutup."
+msgstr ""
+
+#: inc/theme-options.php:976
+msgid "Pilih icon kategori yang sesuai dengan tipe produk."
+msgstr ""
+
+#: inc/theme-options.php:1222
+msgid "Pilih jumlah digit kode unik"
+msgstr ""
+
+#: inc/theme-options.php:2629
+msgid "Pilih layanan bot penyedia API WhatsApp"
+msgstr ""
+
+#: inc/theme-options.php:383
+msgid ""
+"Pilih layanan CDN (Content Delivery Network) untuk images. Clear REST Cache "
+"jika melakukan perubahan."
+msgstr ""
+
+#: page-katalog.php:503
+msgid "Pilih Meja"
+msgstr ""
+
+#: inc/theme-options.php:1276
+msgid ""
+"Pilih metode checkout yang ingin ditampilkan, delivery, dine-in atau "
+"keduanya."
+msgstr ""
+
+#: inc/theme-options.php:1360
+msgid ""
+"Pilih metode pembayaran yang ingin diterapkan. Anda bisa memilih lebih dari "
+"satu metode. Atur masing-masing metode pada tab <strong>Info "
+"Pembayaran</strong>."
+msgstr ""
+
+#: inc/theme-options.php:1249
+msgid ""
+"Pilih metode penambahan atau pengurangan total jika kode unik diaktifkan"
+msgstr ""
+
+#: inc/theme-options.php:1308
+msgid ""
+"Pilih metode pengiriman yang ingin diterapkan<br><strong>Kurir</strong>: "
+"Perhitungan ongkos kirim dengan JNE, Tiki, Pos, dan sejenisnya<br><strong>"
+"Ojek Online</strong>: Perhitungan ongkos kirim berdasarkan jarak lokasi<br>"
+"<strong>Tarif Flat</strong>: Ongkos kirim dengan harga flat<br><strong>"
+"None</strong>: Nonaktifkan perhitungan ongkos kirim"
+msgstr ""
+
+#: inc/theme-options.php:778
+msgid "Pilih metode pengurutan kategori dan produk pada halaman katalog."
+msgstr ""
+
+#: inc/theme-options.php:1745
+msgid "Pilih metode perhitungan tarif yang sesuai kebutuhan."
+msgstr ""
+
+#: inc/theme-options.php:2044
+msgid "Pilih metode promo diskon ongkir berdasarkan minimum pembelanjaan"
+msgstr ""
+
+#: inc/theme-options.php:2681
+msgid ""
+"Pilih tujuan link ketika klik tombol Follow Up secara manual di menu Orderan"
+msgstr ""
+
+#: inc/theme-options.php:2783
+msgid "Pilih warna background PWA"
+msgstr ""
+
+#: inc/theme-options.php:284
+msgid "Pilih warna background untuk header. Default: Putih"
+msgstr ""
+
+#: inc/theme-options.php:2768
+msgid "Pilih warna tema PWA"
+msgstr ""
+
+#: inc/theme-options.php:326
+msgid "Pilih warna tema untuk tombol pada halaman katalog. Default: Hijau"
+msgstr ""
+
+#: inc/theme-options.php:1471
+msgid "Pilihan Kurir"
+msgstr ""
+
+#: inc/theme-options.php:1472
+msgid ""
+"Pilihan kurir yang ingin ditampilkan. Rekomendasi maksimum 3 kurir yang "
+"ditampilkan bersamaan dalam satu waktu."
+msgstr ""
+
+#: inc/theme-options.php:856
+msgid "Placeholder Instruksi"
+msgstr ""
+
+#: 404.php:19
+msgid "Play Game?"
+msgstr ""
+
+#: inc/theme-options.php:1491
+msgid "POS"
+msgstr ""
+
+#: inc/theme-options.php:841
+msgid "Produk"
+msgstr ""
+
+#: inc/theme-options.php:2013
+msgid "Promo"
+msgstr ""
+
+#: page-katalog.php:121
+msgid "Pull to refresh"
+msgstr ""
+
+#: inc/theme-options.php:58
+msgid "PWA"
+msgstr ""
+
+#: functions.php:709
+msgid "Reset Lisensi"
+msgstr ""
+
+#: page-katalog.php:534 page-katalog.php:647
+msgid "Ringkasan Pemesanan"
+msgstr ""
+
+#: inc/theme-options.php:1551
+msgid "Royal Express"
+msgstr ""
+
+#: inc/theme-options.php:1561
+msgid "RPX"
+msgstr ""
+
+#: inc/theme-options.php:54
+msgid "Sales Popup"
+msgstr ""
+
+#: inc/theme-options.php:1531
+msgid "SAP Express"
+msgstr ""
+
+#: inc/theme-options.php:1951
+msgid "Secret Token"
+msgstr ""
+
+#: inc/theme-options.php:1991 inc/theme-options.php:2354
+msgid "Selesai"
+msgstr ""
+
+#: inc/theme-options.php:590
+msgid "Shopee"
+msgstr ""
+
+#: inc/theme-options.php:2912
+msgid "Shortcode"
+msgstr ""
+
+#: inc/theme-options.php:1501
+msgid "SiCepat Express"
+msgstr ""
+
+#: inc/theme-options.php:137
+msgid "Simbol mata uang yang digunakan di website. Default: Rp."
+msgstr ""
+
+#: page-katalog.php:335
+msgid "Simpan Instruksi"
+msgstr ""
+
+#: inc/theme-options.php:444
+msgid "Slider"
+msgstr ""
+
+#: inc/theme-options.php:106
+msgid "Slogan Toko"
+msgstr ""
+
+#: inc/theme-options.php:193
+msgid "Social Thumbnail"
+msgstr ""
+
+#: inc/theme-options.php:1586
+msgid "Solusi Express"
+msgstr ""
+
+#: inc/theme-options.php:1576
+msgid "Star Cargo"
+msgstr ""
+
+#: inc/theme-options.php:397
+msgid "Statically (Free)"
+msgstr ""
+
+#: inc/theme-options.php:1966 inc/theme-options.php:2329
+msgid "Status Berhasil"
+msgstr ""
+
+#: page-katalog.php:659
+msgid "Status Order"
+msgstr ""
+
+#: page-katalog.php:207 inc/theme-options.php:151
+msgid "Status Toko"
+msgstr ""
+
+#: inc/theme-options.php:429
+msgid "Struktur"
+msgstr ""
+
+#: inc/theme-options.php:702
+msgid "Subjudul Widget Chat"
+msgstr ""
+
+#: page-katalog.php:537
+msgid "Subtotal"
+msgstr ""
+
+#: inc/theme-options.php:834
+msgid "Tab"
+msgstr ""
+
+#: page-katalog.php:331
+msgid "Tambah Instruksi Pemesanan"
+msgstr ""
+
+#: page-katalog.php:283 page-katalog.php:323
+msgid "Tambah Pesanan"
+msgstr ""
+
+#: inc/theme-options.php:805
+msgid "Tampilan desain kategori produk pada halaman katalog"
+msgstr ""
+
+#: inc/theme-options.php:887
+msgid "Tampilan desain produk pada halaman katalog"
+msgstr ""
+
+#: inc/theme-options.php:475
+msgid "Tampilan desain slider pada halaman katalog"
+msgstr ""
+
+#: inc/theme-options.php:939
+msgid "Tampilan desain tombol keranjang belanja pada halaman katalog"
+msgstr ""
+
+#: inc/theme-options.php:340
+msgid "Tampilan Desktop"
+msgstr ""
+
+#: inc/theme-options.php:804
+msgid "Tampilan Kategori"
+msgstr ""
+
+#: inc/theme-options.php:938
+msgid "Tampilan Keranjang"
+msgstr ""
+
+#: inc/theme-options.php:341
+msgid ""
+"Tampilan layout halaman katalog saat diakses di layar berukuran besar "
+"(laptop, komputer)"
+msgstr ""
+
+#: inc/theme-options.php:886
+msgid "Tampilan Produk"
+msgstr ""
+
+#: inc/theme-options.php:474
+msgid "Tampilan Slider"
+msgstr ""
+
+#: inc/theme-options.php:1125
+msgid "Tampilkan Berat"
+msgstr ""
+
+#: inc/theme-options.php:1126
+msgid "Tampilkan berat produk di keranjang belanja"
+msgstr ""
+
+#: inc/theme-options.php:1179
+msgid "Tampilkan Kode Unik"
+msgstr ""
+
+#: inc/theme-options.php:1180
+msgid "Tampilkan kode unik pada keranjang belanja"
+msgstr ""
+
+#: inc/theme-options.php:1152
+msgid "Tampilkan Kolom Email"
+msgstr ""
+
+#: inc/theme-options.php:1153
+msgid "Tampilkan kolom isian email di keranjang belanja"
+msgstr ""
+
+#: inc/theme-options.php:2708
+msgid ""
+"Tampilkan notifikasi popup 10 orderan terakhir dengan mengaktifkan Sales "
+"Popup."
+msgstr ""
+
+#: page-katalog.php:655
+msgid "Tanggal"
+msgstr ""
+
+#: inc/theme-options.php:1332 inc/theme-options.php:1764
+msgid "Tarif Flat"
+msgstr ""
+
+#: inc/theme-options.php:1759
+msgid "Tarif per KM"
+msgstr ""
+
+#: inc/theme-options.php:1057
+msgid "Teks Copyright"
+msgstr ""
+
+#: inc/theme-options.php:298
+msgid "Teks Header"
+msgstr ""
+
+#: inc/theme-options.php:641
+msgid "Teks Tombol"
+msgstr ""
+
+#: inc/theme-options.php:672
+msgid "Teks Tombol Chat"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Tema Toko Online WhatsApp #1 dengan Keranjang Belanja &amp; Ongkir Berbasis "
+"Jarak. Pas untuk anda yang berjualan produk fast moving seperti kuliner, "
+"kafe, restoran, frozen food, sayuran, minimarket, dan lain sebagainya."
+msgstr ""
+
+#: inc/theme-options.php:2738
+msgid "Tentukan interval kemunculan popup dalam detik"
+msgstr ""
+
+#: inc/theme-options.php:517
+msgid "Tentukan interval waktu slider untuk auto slide"
+msgstr ""
+
+#: inc/theme-options.php:460
+msgid "Tentukan jumlah foto slider promo yang tampil di katalog"
+msgstr ""
+
+#: inc/theme-options.php:748
+msgid "Tentukan jumlah info yang tampil pada awal load katalog"
+msgstr ""
+
+#: inc/theme-options.php:872
+msgid "Tentukan jumlah produk per kategori yang tampil pada awal load"
+msgstr ""
+
+#: page-katalog.php:630
+msgid "Terima Kasih"
+msgstr ""
+
+#: inc/theme-options.php:2767
+msgid "Theme Color"
+msgstr ""
+
+#. Name of the theme
+#: functions.php:618
+msgid "ThemeFood"
+msgstr ""
+
+#: functions.php:379
+msgid ""
+"ThemeFood berhasil diaktifasi! Refresh halaman untuk menampilkan perubahan."
+msgstr ""
+
+#: functions.php:617
+msgid "ThemeFood Options"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeFood Team"
+msgstr ""
+
+#: inc/theme-options.php:1145 inc/theme-options.php:1172
+#: inc/theme-options.php:1199
+msgid "Tidak"
+msgstr ""
+
+#: inc/theme-options.php:1496
+msgid "TIKI"
+msgstr ""
+
+#: inc/theme-options.php:1653 inc/theme-options.php:2650
+msgid "Token Key"
+msgstr ""
+
+#: inc/theme-options.php:585
+msgid "Tokopedia"
+msgstr ""
+
+#: inc/theme-options.php:657
+msgid "Tombol Chat"
+msgstr ""
+
+#: inc/theme-options.php:546
+msgid "Tombol CTA"
+msgstr ""
+
+#: functions.php:54
+msgid "Top Menu"
+msgstr ""
+
+#: page-katalog.php:567
+msgid "Total Pembayaran"
+msgstr ""
+
+#: inc/theme-options.php:1374 inc/theme-options.php:2120
+msgid "Transfer Bank"
+msgstr ""
+
+#: inc/theme-options.php:171
+msgid "Tutup"
+msgstr ""
+
+#: page-katalog.php:208
+msgid "Tutup Sementara"
+msgstr ""
+
+#: inc/theme-options.php:911
+msgid "Two Grid"
+msgstr ""
+
+#: inc/theme-options.php:1967 inc/theme-options.php:2330
+msgid ""
+"Ubah status orderan yang berhasil setelah menemukan orderan yang telah "
+"dibayar."
+msgstr ""
+
+#: inc/theme-options.php:269
+msgid "Upload background katalog untuk tampilan desktop"
+msgstr ""
+
+#: inc/theme-options.php:2798
+msgid "Upload icon berukuran 512x512 pixels"
+msgstr ""
+
+#: inc/theme-options.php:224
+msgid "Upload icon website dengan format kotak berukuran minimal 48x48 pixels"
+msgstr ""
+
+#: inc/theme-options.php:194
+msgid ""
+"Upload thumbnail dengan format kotak berukuran 1200 x 630 pixels untuk "
+"gambar preview link di social media."
+msgstr ""
+
+#: inc/theme-options.php:797
+msgid "Urutan Acak"
+msgstr ""
+
+#: inc/theme-options.php:777
+msgid "Urutan Kategori"
+msgstr ""
+
+#: inc/theme-options.php:1536
+msgid "Wahana"
+msgstr ""
+
+#: inc/theme-options.php:299
+msgid ""
+"Warna tema untuk teks pada header. Pilih <strong>Dark</strong> jika "
+"background berwarna terang & <strong>White</strong> jika background header "
+"berwarna gelap."
+msgstr ""
+
+#: inc/theme-options.php:620
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/theme-options.php:2700
+msgid "WhatsApp Desktop"
+msgstr ""
+
+#: inc/theme-options.php:2695
+msgid "WhatsApp WEB"
+msgstr ""
+
+#: inc/theme-options.php:318
+msgid "White"
+msgstr ""
+
+#: inc/theme-options.php:2643
+msgid "WooNotif"
+msgstr ""
+
+#: inc/theme-options.php:1140 inc/theme-options.php:1167
+#: inc/theme-options.php:1194
+msgid "Ya"
+msgstr ""
+
+#: inc/theme-options.php:615
+msgid "YouTube"
+msgstr ""

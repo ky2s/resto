@@ -1,0 +1,144 @@
+[01-Nov-2025 19:14:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[01-Nov-2025 19:14:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[01-Nov-2025 19:14:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[01-Nov-2025 19:14:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[01-Nov-2025 19:14:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php on line 25
+[01-Nov-2025 19:14:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php on line 25
+[01-Nov-2025 19:14:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php on line 25
+[01-Nov-2025 19:14:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php on line 25
+[01-Nov-2025 19:15:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[01-Nov-2025 19:15:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[01-Nov-2025 19:15:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[01-Nov-2025 19:15:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[01-Nov-2025 19:15:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php on line 25
+[01-Nov-2025 19:15:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php on line 25
+[01-Nov-2025 19:15:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php on line 25
+[01-Nov-2025 19:15:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php on line 25
+[20-Nov-2025 04:16:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php on line 25
+[20-Nov-2025 04:16:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php on line 25
+[20-Nov-2025 04:16:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php on line 25
+[20-Nov-2025 04:16:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php on line 25
+[20-Nov-2025 04:16:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[20-Nov-2025 04:16:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[20-Nov-2025 04:16:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[20-Nov-2025 04:16:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php on line 25
+[20-Nov-2025 04:16:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php on line 25
+[20-Nov-2025 04:16:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[20-Nov-2025 04:16:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php on line 25
+[20-Nov-2025 04:16:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php on line 25
+[20-Nov-2025 04:16:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[20-Nov-2025 04:16:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[20-Nov-2025 04:16:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[20-Nov-2025 04:16:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[17-Dec-2025 17:36:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[17-Dec-2025 17:36:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php on line 25
+[17-Dec-2025 17:37:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[17-Dec-2025 17:37:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Transport/Curl.php on line 25

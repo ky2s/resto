@@ -1,0 +1,284 @@
+[01-Nov-2025 18:31:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[01-Nov-2025 18:31:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[01-Nov-2025 18:31:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[01-Nov-2025 18:31:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[01-Nov-2025 18:31:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[01-Nov-2025 18:31:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[01-Nov-2025 18:31:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[01-Nov-2025 18:31:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[01-Nov-2025 18:31:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[01-Nov-2025 18:31:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[01-Nov-2025 18:31:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[01-Nov-2025 18:31:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[01-Nov-2025 18:31:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[01-Nov-2025 18:31:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[01-Nov-2025 18:31:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[01-Nov-2025 18:31:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[01-Nov-2025 18:31:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[01-Nov-2025 18:31:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[01-Nov-2025 18:31:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[01-Nov-2025 18:31:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[01-Nov-2025 18:31:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[01-Nov-2025 18:32:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[01-Nov-2025 18:32:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[01-Nov-2025 18:32:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[01-Nov-2025 18:32:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[01-Nov-2025 18:32:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[01-Nov-2025 18:32:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[01-Nov-2025 18:32:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[01-Nov-2025 18:32:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[01-Nov-2025 18:32:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[01-Nov-2025 18:32:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[01-Nov-2025 18:32:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[20-Nov-2025 04:23:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[20-Nov-2025 04:23:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[20-Nov-2025 04:23:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[20-Nov-2025 04:23:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[20-Nov-2025 04:23:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[20-Nov-2025 04:23:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[20-Nov-2025 04:23:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[20-Nov-2025 04:23:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[20-Nov-2025 04:23:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[20-Nov-2025 04:23:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[20-Nov-2025 04:23:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[20-Nov-2025 04:23:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[20-Nov-2025 04:23:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[20-Nov-2025 04:23:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[20-Nov-2025 04:23:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[20-Nov-2025 04:23:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[20-Nov-2025 04:23:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[20-Nov-2025 04:23:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[20-Nov-2025 04:23:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[20-Nov-2025 04:23:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[20-Nov-2025 04:23:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[20-Nov-2025 04:23:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[20-Nov-2025 04:23:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[20-Nov-2025 04:23:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[20-Nov-2025 04:23:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[20-Nov-2025 04:23:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[20-Nov-2025 04:24:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[20-Nov-2025 04:24:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[20-Nov-2025 04:24:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[20-Nov-2025 04:24:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[20-Nov-2025 04:24:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[20-Nov-2025 04:24:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[17-Dec-2025 17:35:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[17-Dec-2025 17:35:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[17-Dec-2025 17:35:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[17-Dec-2025 17:35:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[17-Dec-2025 17:36:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[17-Dec-2025 17:36:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[17-Dec-2025 17:36:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17

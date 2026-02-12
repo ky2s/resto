@@ -1,0 +1,648 @@
+[01-Nov-2025 18:38:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php on line 18
+[01-Nov-2025 18:38:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php on line 18
+[01-Nov-2025 18:38:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php on line 18
+[01-Nov-2025 18:38:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php on line 18
+[01-Nov-2025 18:38:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php on line 18
+[01-Nov-2025 18:38:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php on line 18
+[01-Nov-2025 18:38:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php on line 9
+[01-Nov-2025 18:38:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php on line 9
+[01-Nov-2025 18:38:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php on line 18
+[01-Nov-2025 18:38:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php on line 9
+[01-Nov-2025 18:38:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php on line 18
+[01-Nov-2025 18:38:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php on line 9
+[01-Nov-2025 18:38:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php on line 9
+[01-Nov-2025 18:38:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php on line 9
+[01-Nov-2025 18:38:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php on line 9
+[01-Nov-2025 18:38:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php on line 9
+[01-Nov-2025 18:38:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php on line 9
+[01-Nov-2025 18:38:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php on line 9
+[01-Nov-2025 18:39:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php on line 9
+[01-Nov-2025 18:39:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php on line 9
+[01-Nov-2025 18:39:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php on line 9
+[01-Nov-2025 18:39:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php on line 9
+[01-Nov-2025 18:39:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php on line 9
+[01-Nov-2025 18:39:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php on line 9
+[01-Nov-2025 18:39:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php on line 9
+[01-Nov-2025 18:39:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php on line 9
+[01-Nov-2025 18:39:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php on line 9
+[01-Nov-2025 18:39:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php on line 9
+[01-Nov-2025 18:39:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php on line 13
+[01-Nov-2025 18:39:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php on line 9
+[01-Nov-2025 18:39:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php on line 9
+[01-Nov-2025 18:39:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php on line 13
+[01-Nov-2025 18:39:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php on line 9
+[01-Nov-2025 18:39:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php on line 13
+[01-Nov-2025 18:39:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php on line 13
+[01-Nov-2025 18:39:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php on line 9
+[01-Nov-2025 18:39:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php on line 14
+[01-Nov-2025 18:39:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php on line 13
+[01-Nov-2025 18:39:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php on line 14
+[01-Nov-2025 18:39:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php on line 13
+[01-Nov-2025 18:39:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php on line 14
+[01-Nov-2025 18:39:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php on line 13
+[01-Nov-2025 18:39:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php on line 14
+[01-Nov-2025 18:39:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php on line 13
+[01-Nov-2025 18:39:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php on line 19
+[01-Nov-2025 18:39:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php on line 19
+[01-Nov-2025 18:39:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php on line 14
+[01-Nov-2025 18:39:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php on line 19
+[01-Nov-2025 18:39:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php on line 14
+[01-Nov-2025 18:39:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php on line 14
+[01-Nov-2025 18:39:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php on line 19
+[01-Nov-2025 18:39:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php on line 9
+[01-Nov-2025 18:39:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php on line 14
+[01-Nov-2025 18:39:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php on line 19
+[01-Nov-2025 18:39:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php on line 9
+[01-Nov-2025 18:39:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php on line 19
+[01-Nov-2025 18:40:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php on line 9
+[01-Nov-2025 18:40:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php on line 19
+[01-Nov-2025 18:40:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php on line 19
+[01-Nov-2025 18:40:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php on line 9
+[01-Nov-2025 18:40:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php on line 9
+[01-Nov-2025 18:40:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php on line 13
+[01-Nov-2025 18:40:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php on line 9
+[01-Nov-2025 18:40:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php on line 13
+[01-Nov-2025 18:40:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php on line 9
+[01-Nov-2025 18:40:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php on line 13
+[01-Nov-2025 18:40:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php on line 9
+[01-Nov-2025 18:40:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php on line 13
+[01-Nov-2025 18:40:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php on line 13
+[01-Nov-2025 18:40:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php on line 13
+[01-Nov-2025 18:40:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php on line 13
+[01-Nov-2025 18:40:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php on line 13
+[20-Nov-2025 04:30:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php on line 9
+[20-Nov-2025 04:30:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php on line 9
+[20-Nov-2025 04:30:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php on line 9
+[20-Nov-2025 04:30:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php on line 9
+[20-Nov-2025 04:30:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php on line 9
+[20-Nov-2025 04:30:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php on line 9
+[20-Nov-2025 04:30:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php on line 9
+[20-Nov-2025 04:30:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php on line 9
+[20-Nov-2025 04:30:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php on line 9
+[20-Nov-2025 04:30:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php on line 9
+[20-Nov-2025 04:30:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php on line 9
+[20-Nov-2025 04:30:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php on line 9
+[20-Nov-2025 04:30:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php on line 9
+[20-Nov-2025 04:30:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php on line 9
+[20-Nov-2025 04:30:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php on line 9
+[20-Nov-2025 04:30:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php on line 13
+[20-Nov-2025 04:30:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php on line 13
+[20-Nov-2025 04:30:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php on line 9
+[20-Nov-2025 04:30:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php on line 13
+[20-Nov-2025 04:30:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php on line 13
+[20-Nov-2025 04:30:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php on line 13
+[20-Nov-2025 04:30:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php on line 13
+[20-Nov-2025 04:30:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php on line 13
+[20-Nov-2025 04:30:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php on line 18
+[20-Nov-2025 04:30:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php on line 13
+[20-Nov-2025 04:30:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php on line 18
+[20-Nov-2025 04:30:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php on line 18
+[20-Nov-2025 04:30:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php on line 18
+[20-Nov-2025 04:30:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php on line 18
+[20-Nov-2025 04:30:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php on line 18
+[20-Nov-2025 04:30:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php on line 18
+[20-Nov-2025 04:30:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php on line 14
+[20-Nov-2025 04:30:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php on line 18
+[20-Nov-2025 04:30:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php on line 14
+[20-Nov-2025 04:30:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php on line 14
+[20-Nov-2025 04:30:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php on line 14
+[20-Nov-2025 04:30:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php on line 14
+[20-Nov-2025 04:30:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php on line 14
+[20-Nov-2025 04:30:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php on line 14
+[20-Nov-2025 04:30:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php on line 14
+[20-Nov-2025 04:30:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php on line 13
+[20-Nov-2025 04:30:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php on line 13
+[20-Nov-2025 04:30:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php on line 13
+[20-Nov-2025 04:30:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php on line 13
+[20-Nov-2025 04:30:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php on line 13
+[20-Nov-2025 04:30:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php on line 13
+[20-Nov-2025 04:31:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php on line 13
+[20-Nov-2025 04:31:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php on line 13
+[20-Nov-2025 04:31:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php on line 19
+[20-Nov-2025 04:31:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php on line 19
+[20-Nov-2025 04:31:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php on line 19
+[20-Nov-2025 04:31:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php on line 19
+[20-Nov-2025 04:31:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php on line 19
+[20-Nov-2025 04:31:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php on line 19
+[20-Nov-2025 04:31:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php on line 19
+[20-Nov-2025 04:31:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php on line 9
+[20-Nov-2025 04:31:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php on line 19
+[20-Nov-2025 04:31:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php on line 9
+[20-Nov-2025 04:31:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php on line 9
+[20-Nov-2025 04:31:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php on line 9
+[20-Nov-2025 04:31:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php on line 9
+[20-Nov-2025 04:31:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php on line 9
+[20-Nov-2025 04:31:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php on line 9
+[20-Nov-2025 04:31:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php on line 9
+[20-Nov-2025 04:31:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php on line 9
+[20-Nov-2025 04:31:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php on line 9
+[20-Nov-2025 04:31:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php on line 9
+[20-Nov-2025 04:31:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php on line 9
+[20-Nov-2025 04:31:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php on line 9
+[20-Nov-2025 04:31:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php on line 9
+[20-Nov-2025 04:31:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php on line 9
+[20-Nov-2025 04:31:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php on line 9
+[17-Dec-2025 17:36:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php on line 9
+[17-Dec-2025 17:36:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php on line 9
+[17-Dec-2025 17:36:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php on line 19
+[17-Dec-2025 17:36:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php on line 13
+[17-Dec-2025 17:36:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php on line 14
+[17-Dec-2025 17:36:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php on line 18
+[17-Dec-2025 17:36:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php on line 9
+[17-Dec-2025 17:36:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php on line 13
+[17-Dec-2025 17:36:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php on line 9
+[17-Dec-2025 17:37:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/comments.php on line 9
+[17-Dec-2025 17:37:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header.php on line 9
+[17-Dec-2025 17:37:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/header-embed.php on line 19
+[17-Dec-2025 17:37:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed.php on line 13
+[17-Dec-2025 17:37:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-404.php on line 14
+[17-Dec-2025 17:37:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer-embed.php on line 18
+[17-Dec-2025 17:37:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/footer.php on line 9
+[17-Dec-2025 17:37:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/embed-content.php on line 13
+[17-Dec-2025 17:37:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/theme-compat/sidebar.php on line 9

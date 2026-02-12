@@ -1,0 +1,360 @@
+[01-Nov-2025 18:49:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[01-Nov-2025 18:49:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[01-Nov-2025 18:49:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[01-Nov-2025 18:49:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[01-Nov-2025 18:49:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[01-Nov-2025 18:49:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[01-Nov-2025 18:49:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[01-Nov-2025 18:49:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[01-Nov-2025 18:49:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[01-Nov-2025 18:49:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[01-Nov-2025 18:49:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[01-Nov-2025 18:49:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[01-Nov-2025 18:49:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[01-Nov-2025 18:49:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[01-Nov-2025 18:49:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[01-Nov-2025 18:49:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[01-Nov-2025 18:49:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[01-Nov-2025 18:49:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[01-Nov-2025 18:49:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[01-Nov-2025 18:50:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[01-Nov-2025 18:50:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[01-Nov-2025 18:50:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[01-Nov-2025 18:50:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[01-Nov-2025 18:50:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[01-Nov-2025 18:50:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[01-Nov-2025 18:50:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[01-Nov-2025 18:50:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[01-Nov-2025 18:50:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[01-Nov-2025 18:50:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[01-Nov-2025 18:50:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[01-Nov-2025 18:50:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[01-Nov-2025 18:50:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[01-Nov-2025 18:50:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[01-Nov-2025 18:50:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[01-Nov-2025 18:50:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[01-Nov-2025 18:50:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[01-Nov-2025 18:50:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[01-Nov-2025 18:50:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[01-Nov-2025 18:50:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[01-Nov-2025 18:50:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[20-Nov-2025 04:29:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[20-Nov-2025 04:29:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[20-Nov-2025 04:29:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[20-Nov-2025 04:29:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[20-Nov-2025 04:29:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[20-Nov-2025 04:29:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[20-Nov-2025 04:29:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[20-Nov-2025 04:29:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[20-Nov-2025 04:29:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[20-Nov-2025 04:29:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[20-Nov-2025 04:29:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[20-Nov-2025 04:29:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[20-Nov-2025 04:29:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[20-Nov-2025 04:29:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[20-Nov-2025 04:29:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[20-Nov-2025 04:29:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[20-Nov-2025 04:29:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[20-Nov-2025 04:29:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[20-Nov-2025 04:30:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[20-Nov-2025 04:30:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[20-Nov-2025 04:30:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[20-Nov-2025 04:30:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[20-Nov-2025 04:30:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[20-Nov-2025 04:30:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[20-Nov-2025 04:30:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[20-Nov-2025 04:30:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[20-Nov-2025 04:30:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[20-Nov-2025 04:30:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[20-Nov-2025 04:30:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[20-Nov-2025 04:30:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[20-Nov-2025 04:30:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[20-Nov-2025 04:30:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[20-Nov-2025 04:30:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[20-Nov-2025 04:30:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[20-Nov-2025 04:30:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[20-Nov-2025 04:30:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[20-Nov-2025 04:30:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[20-Nov-2025 04:30:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[20-Nov-2025 04:30:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[20-Nov-2025 04:30:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[17-Dec-2025 17:33:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[17-Dec-2025 17:33:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[17-Dec-2025 17:33:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[17-Dec-2025 17:33:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[17-Dec-2025 17:33:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[17-Dec-2025 17:33:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[17-Dec-2025 17:33:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[17-Dec-2025 17:33:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[17-Dec-2025 17:33:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[17-Dec-2025 17:33:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4

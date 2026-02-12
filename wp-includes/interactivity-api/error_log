@@ -1,0 +1,72 @@
+[01-Nov-2025 18:40:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[01-Nov-2025 18:40:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[01-Nov-2025 18:40:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[01-Nov-2025 18:40:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[01-Nov-2025 18:40:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[01-Nov-2025 18:40:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[01-Nov-2025 18:40:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[01-Nov-2025 18:40:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[20-Nov-2025 04:10:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[20-Nov-2025 04:10:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[20-Nov-2025 04:10:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[20-Nov-2025 04:10:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[20-Nov-2025 04:10:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[20-Nov-2025 04:10:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[20-Nov-2025 04:10:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[20-Nov-2025 04:10:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[17-Dec-2025 17:34:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[17-Dec-2025 17:35:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18

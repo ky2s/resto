@@ -1,0 +1,448 @@
+[01-Nov-2025 19:31:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 20
+[01-Nov-2025 19:31:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 20
+[01-Nov-2025 19:31:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 20
+[01-Nov-2025 19:31:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 20
+[01-Nov-2025 19:31:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 16
+[01-Nov-2025 19:31:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 16
+[01-Nov-2025 19:31:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 16
+[01-Nov-2025 19:32:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 16
+[01-Nov-2025 19:32:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[01-Nov-2025 19:32:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[01-Nov-2025 19:32:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[01-Nov-2025 19:32:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[01-Nov-2025 19:32:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 29
+[01-Nov-2025 19:32:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 29
+[01-Nov-2025 19:32:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 29
+[01-Nov-2025 19:32:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 29
+[01-Nov-2025 19:32:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[01-Nov-2025 19:32:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[01-Nov-2025 19:32:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[01-Nov-2025 19:32:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[01-Nov-2025 19:32:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php on line 9
+[01-Nov-2025 19:32:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php on line 9
+[01-Nov-2025 19:32:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php on line 9
+[01-Nov-2025 19:32:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php on line 9
+[01-Nov-2025 19:32:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[01-Nov-2025 19:32:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[01-Nov-2025 19:32:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[01-Nov-2025 19:32:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[01-Nov-2025 19:32:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 20
+[01-Nov-2025 19:32:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 20
+[01-Nov-2025 19:32:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 20
+[01-Nov-2025 19:32:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 20
+[01-Nov-2025 19:32:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 16
+[01-Nov-2025 19:32:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 16
+[01-Nov-2025 19:32:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 16
+[01-Nov-2025 19:32:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 16
+[01-Nov-2025 19:32:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[01-Nov-2025 19:32:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[01-Nov-2025 19:32:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[01-Nov-2025 19:32:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[01-Nov-2025 19:32:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 29
+[01-Nov-2025 19:32:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 29
+[01-Nov-2025 19:32:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 29
+[01-Nov-2025 19:32:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 29
+[01-Nov-2025 19:32:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[01-Nov-2025 19:32:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[01-Nov-2025 19:33:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[01-Nov-2025 19:33:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[01-Nov-2025 19:33:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php on line 9
+[01-Nov-2025 19:33:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php on line 9
+[01-Nov-2025 19:33:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php on line 9
+[01-Nov-2025 19:33:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php on line 9
+[01-Nov-2025 19:33:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[01-Nov-2025 19:33:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[01-Nov-2025 19:33:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[01-Nov-2025 19:33:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[20-Nov-2025 04:33:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[20-Nov-2025 04:33:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[20-Nov-2025 04:33:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[20-Nov-2025 04:33:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[20-Nov-2025 04:33:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[20-Nov-2025 04:33:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[20-Nov-2025 04:33:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[20-Nov-2025 04:33:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[20-Nov-2025 04:33:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[20-Nov-2025 04:33:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[20-Nov-2025 04:33:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[20-Nov-2025 04:33:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[20-Nov-2025 04:33:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[20-Nov-2025 04:33:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[20-Nov-2025 04:33:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[20-Nov-2025 04:33:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 20
+[20-Nov-2025 04:33:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 20
+[20-Nov-2025 04:33:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[20-Nov-2025 04:33:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 20
+[20-Nov-2025 04:33:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 20
+[20-Nov-2025 04:33:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 20
+[20-Nov-2025 04:33:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 20
+[20-Nov-2025 04:33:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 20
+[20-Nov-2025 04:33:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[20-Nov-2025 04:33:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[20-Nov-2025 04:33:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 20
+[20-Nov-2025 04:33:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[20-Nov-2025 04:33:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[20-Nov-2025 04:33:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[20-Nov-2025 04:33:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[20-Nov-2025 04:33:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[20-Nov-2025 04:33:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php on line 9
+[20-Nov-2025 04:33:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php on line 9
+[20-Nov-2025 04:33:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10
+[20-Nov-2025 04:33:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php on line 9
+[20-Nov-2025 04:33:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php on line 9
+[20-Nov-2025 04:33:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php on line 9
+[20-Nov-2025 04:33:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php on line 9
+[20-Nov-2025 04:33:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php on line 9
+[20-Nov-2025 04:33:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 29
+[20-Nov-2025 04:34:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 29
+[20-Nov-2025 04:34:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/hidden-heading.php on line 9
+[20-Nov-2025 04:34:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 29
+[20-Nov-2025 04:34:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 29
+[20-Nov-2025 04:34:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 29
+[20-Nov-2025 04:34:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 29
+[20-Nov-2025 04:34:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 29
+[20-Nov-2025 04:34:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 16
+[20-Nov-2025 04:34:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 16
+[20-Nov-2025 04:34:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 29
+[20-Nov-2025 04:34:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 16
+[20-Nov-2025 04:34:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 16
+[20-Nov-2025 04:34:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 16
+[20-Nov-2025 04:34:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 16
+[20-Nov-2025 04:34:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 16
+[20-Nov-2025 04:34:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 16

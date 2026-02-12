@@ -1,0 +1,144 @@
+[01-Nov-2025 19:12:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[01-Nov-2025 19:12:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[01-Nov-2025 19:12:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[01-Nov-2025 19:12:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[01-Nov-2025 19:12:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[01-Nov-2025 19:12:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[01-Nov-2025 19:12:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[01-Nov-2025 19:12:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[01-Nov-2025 19:12:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[01-Nov-2025 19:12:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[01-Nov-2025 19:12:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[01-Nov-2025 19:13:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[01-Nov-2025 19:13:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[01-Nov-2025 19:13:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[01-Nov-2025 19:13:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[01-Nov-2025 19:13:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[20-Nov-2025 04:08:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[20-Nov-2025 04:08:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[20-Nov-2025 04:08:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[20-Nov-2025 04:08:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[20-Nov-2025 04:08:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[20-Nov-2025 04:08:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[20-Nov-2025 04:08:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[20-Nov-2025 04:08:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[20-Nov-2025 04:08:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[20-Nov-2025 04:08:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[20-Nov-2025 04:08:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[20-Nov-2025 04:08:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[20-Nov-2025 04:08:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[20-Nov-2025 04:08:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[20-Nov-2025 04:08:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[20-Nov-2025 04:08:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[17-Dec-2025 17:33:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[17-Dec-2025 17:33:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[17-Dec-2025 17:33:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[17-Dec-2025 17:33:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/IXR/class-IXR-introspectionserver.php on line 9

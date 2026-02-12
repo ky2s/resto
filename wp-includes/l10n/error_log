@@ -1,0 +1,144 @@
+[01-Nov-2025 18:59:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[01-Nov-2025 18:59:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[01-Nov-2025 19:00:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[01-Nov-2025 19:00:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[01-Nov-2025 19:00:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[01-Nov-2025 19:00:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[01-Nov-2025 19:00:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[01-Nov-2025 19:00:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[01-Nov-2025 19:01:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[01-Nov-2025 19:01:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[01-Nov-2025 19:01:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[01-Nov-2025 19:01:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[01-Nov-2025 19:01:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[01-Nov-2025 19:01:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[01-Nov-2025 19:01:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[01-Nov-2025 19:01:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[20-Nov-2025 04:07:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[20-Nov-2025 04:07:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[20-Nov-2025 04:07:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[20-Nov-2025 04:07:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[20-Nov-2025 04:07:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[20-Nov-2025 04:07:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[20-Nov-2025 04:07:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[20-Nov-2025 04:07:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[20-Nov-2025 04:07:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[20-Nov-2025 04:07:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[20-Nov-2025 04:07:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[20-Nov-2025 04:08:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[20-Nov-2025 04:08:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[20-Nov-2025 04:08:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[20-Nov-2025 04:08:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[20-Nov-2025 04:08:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[17-Dec-2025 17:35:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[17-Dec-2025 17:35:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[17-Dec-2025 17:36:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[17-Dec-2025 17:36:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Translation_File" not found in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/l10n/class-wp-translation-file-php.php on line 15

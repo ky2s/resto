@@ -1,0 +1,446 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ThemeFood Supporter Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-15 23:49+0000\n"
+"PO-Revision-Date: 2021-05-15 23:50+0000\n"
+"Last-Translator: ThemeFood\n"
+"Language-Team: Bahasa Indonesia\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: themefood"
+
+#: index.php:2356
+msgid "-"
+msgstr ""
+
+#: index.php:2314
+msgid "Aksi"
+msgstr ""
+
+#: index.php:2280
+msgid "Berlaku Dari"
+msgstr ""
+
+#: index.php:2281
+msgid "Berlaku Hingga"
+msgstr ""
+
+#: index.php:885
+msgid "Cari CS"
+msgstr ""
+
+#: index.php:809
+msgid "Cari Info"
+msgstr ""
+
+#: index.php:938
+msgid "Cari Kategori Produk"
+msgstr ""
+
+#: index.php:861
+msgid "Cari Kupon"
+msgstr ""
+
+#: index.php:910
+msgid "Cari Orderan"
+msgstr ""
+
+#: index.php:780
+msgid "Cari Produk"
+msgstr ""
+
+#: index.php:836
+msgid "Cari Slider"
+msgstr ""
+
+#: index.php:957
+msgid "Cari Status Order"
+msgstr ""
+
+#: index.php:886
+msgid "CS tidak ditemukan"
+msgstr ""
+
+#: index.php:878 index.php:879
+msgid "CS WhatsApp"
+msgstr ""
+
+#: index.php:2261
+msgid "Dilihat"
+msgstr ""
+
+#: index.php:2303
+msgid "Dipesan Pada"
+msgstr ""
+
+#: index.php:882
+msgid "Edit CS"
+msgstr ""
+
+#: index.php:806
+msgid "Edit Info"
+msgstr ""
+
+#: index.php:935
+msgid "Edit Kategori Produk"
+msgstr ""
+
+#: index.php:858
+msgid "Edit Kupon"
+msgstr ""
+
+#: index.php:907
+msgid "Edit Orderan"
+msgstr ""
+
+#: index.php:777
+msgid "Edit Produk"
+msgstr ""
+
+#: index.php:833
+msgid "Edit Slider"
+msgstr ""
+
+#: index.php:954
+msgid "Edit Status Order"
+msgstr ""
+
+#: index.php:2290
+msgid "Follow-Up"
+msgstr ""
+
+#: index.php:1633
+msgid "Foto Kategori"
+msgstr ""
+
+#: index.php:2257
+msgid "Harga"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://themefood.id"
+msgstr ""
+
+#: index.php:810
+msgid "Info tidak ditemukan"
+msgstr ""
+
+#: index.php:802 index.php:803
+msgid "Info Toko"
+msgstr ""
+
+#: index.php:2293
+msgid "Jadwal"
+msgstr ""
+
+#: index.php:2269 index.php:2277 index.php:2288
+msgid "Judul"
+msgstr ""
+
+#: index.php:773 index.php:774
+msgid "Katalog Produk"
+msgstr ""
+
+#: index.php:2259
+msgid "Kategori"
+msgstr ""
+
+#: index.php:931 index.php:932
+msgid "Kategori Produk"
+msgstr ""
+
+#: index.php:933 index.php:936
+msgid "Kategori Produk Baru"
+msgstr ""
+
+#: index.php:939
+msgid "Kategori Produk tidak ditemukan"
+msgstr ""
+
+#: index.php:2278
+msgid "Kode Kupon"
+msgstr ""
+
+#: index.php:854 index.php:855
+msgid "Kupon Diskon"
+msgstr ""
+
+#: index.php:862
+msgid "Kupon tidak ditemukan"
+msgstr ""
+
+#: index.php:3098 index.php:3099 index.php:3666
+msgid "Laporan CS"
+msgstr ""
+
+#: index.php:3090 index.php:3091 index.php:3429
+msgid "Laporan Orderan"
+msgstr ""
+
+#: index.php:884
+msgid "Lihat CS"
+msgstr ""
+
+#: index.php:808
+msgid "Lihat Info"
+msgstr ""
+
+#: index.php:937
+msgid "Lihat Kategori Produk"
+msgstr ""
+
+#: index.php:860
+msgid "Lihat Kupon"
+msgstr ""
+
+#: index.php:909
+msgid "Lihat Orderan"
+msgstr ""
+
+#: index.php:779
+msgid "Lihat Produk"
+msgstr ""
+
+#: index.php:835
+msgid "Lihat Slider"
+msgstr ""
+
+#: index.php:956
+msgid "Lihat Status Order"
+msgstr ""
+
+#: index.php:3106 index.php:3107
+msgid "Menu QR-Code"
+msgstr ""
+
+#: index.php:2312
+msgid "Metode Pembayaran"
+msgstr ""
+
+#: index.php:2289
+msgid "Nama"
+msgstr ""
+
+#: index.php:2279
+msgid "Nilai Kupon"
+msgstr ""
+
+#: index.php:2310
+msgid "No Meja"
+msgstr ""
+
+#: index.php:2291 index.php:2305
+msgid "No WhatsApp"
+msgstr ""
+
+#: index.php:3694
+msgid "Not Found"
+msgstr ""
+
+#: index.php:903 index.php:904 index.php:2302
+msgid "Orderan"
+msgstr ""
+
+#: index.php:3072
+#, php-format
+msgid "Orderan #%s telah diterima"
+msgstr ""
+
+#: index.php:905 index.php:908
+msgid "Orderan Baru"
+msgstr ""
+
+#: index.php:911
+msgid "Orderan tidak ditemukan"
+msgstr ""
+
+#: index.php:3443 index.php:3715
+msgid "Orderan<br>Diantar"
+msgstr ""
+
+#: index.php:3451 index.php:3723
+msgid "Orderan<br>Dibatalkan"
+msgstr ""
+
+#: index.php:3439 index.php:3711
+msgid "Orderan<br>Diproses"
+msgstr ""
+
+#: index.php:3435 index.php:3707
+msgid "Orderan<br>Diterima"
+msgstr ""
+
+#: index.php:3447 index.php:3719
+msgid "Orderan<br>Selesai"
+msgstr ""
+
+#: index.php:2307
+msgid "Pengiriman"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin pelengkap tema ThemeFood."
+msgstr ""
+
+#: index.php:2292
+msgid "Posisi"
+msgstr ""
+
+#: index.php:3700
+msgid "Potensi Omset"
+msgstr ""
+
+#: index.php:2256
+msgid "Produk"
+msgstr ""
+
+#: index.php:781
+msgid "Produk tidak ditemukan"
+msgstr ""
+
+#: index.php:829 index.php:830
+msgid "Slider Promo"
+msgstr ""
+
+#: index.php:837
+msgid "Slider tidak ditemukan"
+msgstr ""
+
+#: index.php:950 index.php:951 index.php:2313
+msgid "Status Order"
+msgstr ""
+
+#: index.php:952 index.php:955
+msgid "Status Order Baru"
+msgstr ""
+
+#: index.php:958
+msgid "Status Order tidak ditemukan"
+msgstr ""
+
+#: index.php:2260
+msgid "Stok"
+msgstr ""
+
+#: index.php:880 index.php:883
+msgid "Tambah CS"
+msgstr ""
+
+#: index.php:881
+msgid "Tambah CS Baru"
+msgstr ""
+
+#: index.php:804 index.php:807
+msgid "Tambah Info"
+msgstr ""
+
+#: index.php:805
+msgid "Tambah Info Baru"
+msgstr ""
+
+#: index.php:934
+msgid "Tambah Kategori Baru"
+msgstr ""
+
+#: index.php:856 index.php:859
+msgid "Tambah Kupon"
+msgstr ""
+
+#: index.php:857
+msgid "Tambah Kupon Baru"
+msgstr ""
+
+#: index.php:906
+msgid "Tambah Orderan Baru"
+msgstr ""
+
+#: index.php:775 index.php:778
+msgid "Tambah Produk"
+msgstr ""
+
+#: index.php:776
+msgid "Tambah Produk Baru"
+msgstr ""
+
+#: index.php:831 index.php:834
+msgid "Tambah Slider"
+msgstr ""
+
+#: index.php:832
+msgid "Tambah Slider Baru"
+msgstr ""
+
+#: index.php:953
+msgid "Tambah Status Baru"
+msgstr ""
+
+#: index.php:2262 index.php:2271
+msgid "Tanggal"
+msgstr ""
+
+#: index.php:2270
+msgid "Target"
+msgstr ""
+
+#: index.php:3081 index.php:3082
+msgid "ThemeFood Options"
+msgstr ""
+
+#. Name of the plugin
+msgid "ThemeFood Supporter Plugin"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeFood Team"
+msgstr ""
+
+#: index.php:887
+msgid "Tidak ada cs whatsapp di tempat sampah"
+msgstr ""
+
+#: index.php:811
+msgid "Tidak ada info toko di tempat sampah"
+msgstr ""
+
+#: index.php:782
+msgid "Tidak ada katalog produk di tempat sampah"
+msgstr ""
+
+#: index.php:940
+msgid "Tidak ada kategori produk di tempat sampah"
+msgstr ""
+
+#: index.php:863
+msgid "Tidak ada kupon diskon di tempat sampah"
+msgstr ""
+
+#: index.php:912
+msgid "Tidak ada orderan di tempat sampah"
+msgstr ""
+
+#: index.php:838
+msgid "Tidak ada slider di tempat sampah"
+msgstr ""
+
+#: index.php:959
+msgid "Tidak ada status order di tempat sampah"
+msgstr ""
+
+#: index.php:3000
+msgid "Tipe Order"
+msgstr ""
+
+#: index.php:2304
+msgid "Total Order"
+msgstr ""
+
+#: index.php:2258
+msgid "Variasi"
+msgstr ""

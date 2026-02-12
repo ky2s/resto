@@ -1,0 +1,136 @@
+[01-Nov-2025 18:53:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[01-Nov-2025 18:53:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[01-Nov-2025 18:53:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[01-Nov-2025 18:53:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[01-Nov-2025 18:54:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[01-Nov-2025 18:54:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[01-Nov-2025 18:54:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[01-Nov-2025 18:54:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[01-Nov-2025 18:55:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[01-Nov-2025 18:55:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[01-Nov-2025 18:55:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[01-Nov-2025 18:55:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[01-Nov-2025 18:55:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[01-Nov-2025 18:55:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[01-Nov-2025 18:55:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[01-Nov-2025 18:55:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[20-Nov-2025 04:27:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[20-Nov-2025 04:27:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[20-Nov-2025 04:27:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[20-Nov-2025 04:27:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[20-Nov-2025 04:27:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[20-Nov-2025 04:27:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[20-Nov-2025 04:27:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[20-Nov-2025 04:27:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[20-Nov-2025 04:27:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[20-Nov-2025 04:27:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[20-Nov-2025 04:27:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[20-Nov-2025 04:27:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[20-Nov-2025 04:27:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[20-Nov-2025 04:27:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[20-Nov-2025 04:27:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[20-Nov-2025 04:27:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[17-Dec-2025 17:34:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[17-Dec-2025 17:34:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10

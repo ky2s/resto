@@ -1,0 +1,648 @@
+[01-Nov-2025 19:08:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[01-Nov-2025 19:08:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[01-Nov-2025 19:08:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[01-Nov-2025 19:08:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[01-Nov-2025 19:08:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[01-Nov-2025 19:08:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[01-Nov-2025 19:08:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[01-Nov-2025 19:08:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[01-Nov-2025 19:09:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[01-Nov-2025 19:09:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[01-Nov-2025 19:09:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[01-Nov-2025 19:09:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[01-Nov-2025 19:09:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[01-Nov-2025 19:09:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[01-Nov-2025 19:09:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[01-Nov-2025 19:09:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[01-Nov-2025 19:09:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[01-Nov-2025 19:09:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[01-Nov-2025 19:09:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[01-Nov-2025 19:09:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[01-Nov-2025 19:09:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[01-Nov-2025 19:10:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[01-Nov-2025 19:10:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[01-Nov-2025 19:10:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[01-Nov-2025 19:10:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php on line 60
+[01-Nov-2025 19:10:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php on line 60
+[01-Nov-2025 19:10:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php on line 60
+[01-Nov-2025 19:10:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php on line 60
+[01-Nov-2025 19:10:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php on line 54
+[01-Nov-2025 19:10:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php on line 54
+[01-Nov-2025 19:10:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php on line 54
+[01-Nov-2025 19:10:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php on line 54
+[01-Nov-2025 19:11:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php on line 63
+[01-Nov-2025 19:11:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php on line 63
+[01-Nov-2025 19:11:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php on line 63
+[01-Nov-2025 19:11:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php on line 63
+[01-Nov-2025 19:11:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[01-Nov-2025 19:11:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[01-Nov-2025 19:11:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[01-Nov-2025 19:11:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[01-Nov-2025 19:11:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[01-Nov-2025 19:11:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[01-Nov-2025 19:11:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[01-Nov-2025 19:11:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[01-Nov-2025 19:11:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[01-Nov-2025 19:11:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[01-Nov-2025 19:11:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[01-Nov-2025 19:11:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[01-Nov-2025 19:11:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[01-Nov-2025 19:11:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[01-Nov-2025 19:11:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[01-Nov-2025 19:12:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[01-Nov-2025 19:12:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[01-Nov-2025 19:12:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[01-Nov-2025 19:12:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[01-Nov-2025 19:12:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[01-Nov-2025 19:12:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[01-Nov-2025 19:12:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[01-Nov-2025 19:12:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[01-Nov-2025 19:12:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[01-Nov-2025 19:12:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php on line 60
+[01-Nov-2025 19:12:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php on line 60
+[01-Nov-2025 19:12:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php on line 60
+[01-Nov-2025 19:12:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php on line 60
+[01-Nov-2025 19:12:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php on line 54
+[01-Nov-2025 19:12:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php on line 54
+[01-Nov-2025 19:12:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php on line 54
+[01-Nov-2025 19:12:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php on line 54
+[01-Nov-2025 19:12:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php on line 63
+[01-Nov-2025 19:12:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php on line 63
+[01-Nov-2025 19:12:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php on line 63
+[01-Nov-2025 19:12:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php on line 63
+[20-Nov-2025 04:15:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[20-Nov-2025 04:15:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[20-Nov-2025 04:15:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[20-Nov-2025 04:15:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[20-Nov-2025 04:15:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[20-Nov-2025 04:15:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[20-Nov-2025 04:15:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[20-Nov-2025 04:15:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[20-Nov-2025 04:15:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[20-Nov-2025 04:15:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[20-Nov-2025 04:15:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[20-Nov-2025 04:15:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[20-Nov-2025 04:15:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[20-Nov-2025 04:15:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[20-Nov-2025 04:15:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[20-Nov-2025 04:15:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[20-Nov-2025 04:15:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[20-Nov-2025 04:15:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[20-Nov-2025 04:15:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[20-Nov-2025 04:15:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[20-Nov-2025 04:15:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[20-Nov-2025 04:15:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[20-Nov-2025 04:15:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[20-Nov-2025 04:15:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[20-Nov-2025 04:15:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[20-Nov-2025 04:15:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[20-Nov-2025 04:15:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php on line 54
+[20-Nov-2025 04:15:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php on line 54
+[20-Nov-2025 04:15:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[20-Nov-2025 04:15:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php on line 54
+[20-Nov-2025 04:15:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[20-Nov-2025 04:15:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[20-Nov-2025 04:15:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php on line 54
+[20-Nov-2025 04:15:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[20-Nov-2025 04:15:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php on line 63
+[20-Nov-2025 04:15:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php on line 63
+[20-Nov-2025 04:15:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[20-Nov-2025 04:15:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php on line 63
+[20-Nov-2025 04:15:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[20-Nov-2025 04:15:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php on line 63
+[20-Nov-2025 04:15:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php on line 54
+[20-Nov-2025 04:15:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php on line 60
+[20-Nov-2025 04:15:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php on line 54
+[20-Nov-2025 04:15:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php on line 60
+[20-Nov-2025 04:15:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php on line 54
+[20-Nov-2025 04:15:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php on line 60
+[20-Nov-2025 04:15:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php on line 54
+[20-Nov-2025 04:15:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php on line 60
+[20-Nov-2025 04:15:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php on line 63
+[20-Nov-2025 04:15:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php on line 63
+[20-Nov-2025 04:15:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[20-Nov-2025 04:15:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[20-Nov-2025 04:15:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php on line 63
+[20-Nov-2025 04:15:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[20-Nov-2025 04:15:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php on line 63
+[20-Nov-2025 04:15:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[20-Nov-2025 04:15:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php on line 60
+[20-Nov-2025 04:15:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php on line 60
+[20-Nov-2025 04:15:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[20-Nov-2025 04:15:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[20-Nov-2025 04:15:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php on line 60
+[20-Nov-2025 04:15:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[20-Nov-2025 04:15:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php on line 60
+[20-Nov-2025 04:15:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[20-Nov-2025 04:15:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[20-Nov-2025 04:15:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[20-Nov-2025 04:15:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[20-Nov-2025 04:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[20-Nov-2025 04:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[20-Nov-2025 04:15:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[20-Nov-2025 04:15:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[20-Nov-2025 04:15:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[17-Dec-2025 17:34:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[17-Dec-2025 17:34:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[17-Dec-2025 17:34:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[17-Dec-2025 17:34:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php on line 63
+[17-Dec-2025 17:34:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[17-Dec-2025 17:34:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[17-Dec-2025 17:34:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[17-Dec-2025 17:34:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php on line 54
+[17-Dec-2025 17:34:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php on line 60
+[17-Dec-2025 17:34:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[17-Dec-2025 17:34:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[17-Dec-2025 17:34:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[17-Dec-2025 17:34:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Redis.php on line 63
+[17-Dec-2025 17:34:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[17-Dec-2025 17:34:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[17-Dec-2025 17:34:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[17-Dec-2025 17:34:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/File.php on line 54
+[17-Dec-2025 17:34:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/SimplePie/src/Cache/MySQL.php on line 60

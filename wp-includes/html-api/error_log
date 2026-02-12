@@ -1,0 +1,144 @@
+[01-Nov-2025 19:04:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php on line 143
+[01-Nov-2025 19:04:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php on line 143
+[01-Nov-2025 19:04:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php on line 143
+[01-Nov-2025 19:04:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php on line 143
+[01-Nov-2025 19:04:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php on line 38
+[01-Nov-2025 19:04:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php on line 38
+[01-Nov-2025 19:04:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php on line 38
+[01-Nov-2025 19:04:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php on line 38
+[01-Nov-2025 19:06:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php on line 143
+[01-Nov-2025 19:06:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php on line 143
+[01-Nov-2025 19:06:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php on line 143
+[01-Nov-2025 19:06:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php on line 143
+[01-Nov-2025 19:06:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php on line 38
+[01-Nov-2025 19:06:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php on line 38
+[01-Nov-2025 19:06:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php on line 38
+[01-Nov-2025 19:07:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php on line 38
+[20-Nov-2025 04:10:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php on line 143
+[20-Nov-2025 04:10:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php on line 143
+[20-Nov-2025 04:10:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php on line 143
+[20-Nov-2025 04:10:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php on line 143
+[20-Nov-2025 04:10:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php on line 38
+[20-Nov-2025 04:10:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php on line 38
+[20-Nov-2025 04:10:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php on line 38
+[20-Nov-2025 04:10:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php on line 143
+[20-Nov-2025 04:10:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php on line 38
+[20-Nov-2025 04:10:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php on line 143
+[20-Nov-2025 04:10:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php on line 143
+[20-Nov-2025 04:10:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php on line 143
+[20-Nov-2025 04:10:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php on line 38
+[20-Nov-2025 04:10:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php on line 38
+[20-Nov-2025 04:10:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php on line 38
+[20-Nov-2025 04:10:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php on line 38
+[17-Dec-2025 17:37:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php on line 38
+[17-Dec-2025 17:37:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php on line 143
+[17-Dec-2025 17:37:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/html5-named-character-references.php on line 38
+[17-Dec-2025 17:37:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/html-api/class-wp-html-processor.php on line 143

@@ -1,0 +1,212 @@
+[01-Nov-2025 18:41:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[01-Nov-2025 18:41:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[01-Nov-2025 18:41:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[01-Nov-2025 18:41:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[01-Nov-2025 18:41:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[01-Nov-2025 18:41:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[01-Nov-2025 18:41:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[01-Nov-2025 18:41:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[01-Nov-2025 18:41:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[01-Nov-2025 18:41:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[01-Nov-2025 18:41:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[01-Nov-2025 18:41:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[01-Nov-2025 18:41:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[01-Nov-2025 18:41:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[01-Nov-2025 18:41:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[01-Nov-2025 18:41:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php on line 4
+[01-Nov-2025 18:41:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[01-Nov-2025 18:41:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php on line 4
+[01-Nov-2025 18:41:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php on line 4
+[01-Nov-2025 18:41:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php on line 4
+[01-Nov-2025 18:41:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php on line 4
+[01-Nov-2025 18:41:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php on line 4
+[01-Nov-2025 18:41:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php on line 4
+[01-Nov-2025 18:42:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php on line 4
+[20-Nov-2025 04:28:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[20-Nov-2025 04:28:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[20-Nov-2025 04:28:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[20-Nov-2025 04:28:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[20-Nov-2025 04:28:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php on line 4
+[20-Nov-2025 04:28:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php on line 4
+[20-Nov-2025 04:28:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[20-Nov-2025 04:28:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php on line 4
+[20-Nov-2025 04:28:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[20-Nov-2025 04:28:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[20-Nov-2025 04:28:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php on line 4
+[20-Nov-2025 04:28:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[20-Nov-2025 04:28:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[20-Nov-2025 04:28:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[20-Nov-2025 04:28:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[20-Nov-2025 04:28:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php on line 4
+[20-Nov-2025 04:28:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php on line 4
+[20-Nov-2025 04:28:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php on line 4
+[20-Nov-2025 04:28:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php on line 4
+[20-Nov-2025 04:28:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[20-Nov-2025 04:28:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[20-Nov-2025 04:28:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[20-Nov-2025 04:28:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[17-Dec-2025 17:33:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php on line 4
+[17-Dec-2025 17:33:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[17-Dec-2025 17:33:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/File.php on line 4
+[17-Dec-2025 17:33:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[17-Dec-2025 17:33:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[17-Dec-2025 17:33:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/namespaced/Compat.php on line 4

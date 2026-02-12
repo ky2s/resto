@@ -1,0 +1,68 @@
+[01-Nov-2025 18:54:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[01-Nov-2025 18:54:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[01-Nov-2025 18:54:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[01-Nov-2025 18:54:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[01-Nov-2025 18:55:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[01-Nov-2025 18:55:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[01-Nov-2025 18:55:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[01-Nov-2025 18:55:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[20-Nov-2025 04:27:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[20-Nov-2025 04:27:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[20-Nov-2025 04:27:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[20-Nov-2025 04:27:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[20-Nov-2025 04:28:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[20-Nov-2025 04:28:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[20-Nov-2025 04:28:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[20-Nov-2025 04:28:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[17-Dec-2025 17:34:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12

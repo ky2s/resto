@@ -1,0 +1,72 @@
+[01-Nov-2025 19:14:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php on line 19
+[01-Nov-2025 19:14:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php on line 19
+[01-Nov-2025 19:14:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php on line 19
+[01-Nov-2025 19:14:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php on line 19
+[01-Nov-2025 19:14:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php on line 19
+[01-Nov-2025 19:14:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php on line 19
+[01-Nov-2025 19:14:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php on line 19
+[01-Nov-2025 19:14:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php on line 19
+[20-Nov-2025 04:16:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php on line 19
+[20-Nov-2025 04:16:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php on line 19
+[20-Nov-2025 04:16:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php on line 19
+[20-Nov-2025 04:16:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php on line 19
+[20-Nov-2025 04:16:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php on line 19
+[20-Nov-2025 04:16:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php on line 19
+[20-Nov-2025 04:16:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php on line 19
+[20-Nov-2025 04:16:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php on line 19
+[17-Dec-2025 17:36:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php on line 19
+[17-Dec-2025 17:36:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/etaw7379/public_html/resto/wp-includes/Requests/src/Hooks.php on line 19
