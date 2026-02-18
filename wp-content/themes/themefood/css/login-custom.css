@@ -1,0 +1,90 @@
+:root {
+  --tf-login-bg: linear-gradient(140deg, #f4f7fb 0%, #e8eef6 100%);
+  --tf-card-bg: #ffffff;
+  --tf-primary: #1e88e5;
+  --tf-primary-dark: #136fbe;
+  --tf-text: #1f2937;
+  --tf-muted: #6b7280;
+  --tf-input-bg: #f9fbff;
+  --tf-input-border: #d6e4f3;
+}
+
+body.login {
+  background: var(--tf-login-bg);
+  min-height: 100vh;
+}
+
+body.login #login {
+  width: min(92vw, 420px);
+  padding-top: 6vh;
+}
+
+body.login h1 a {
+  background-image: url('../img/icon-themefood.svg');
+  background-size: 84px 84px;
+  width: 84px;
+  height: 84px;
+  margin-bottom: 18px;
+}
+
+body.login form {
+  border: 0;
+  border-radius: 16px;
+  padding: 28px;
+  background: var(--tf-card-bg);
+  box-shadow: 0 16px 44px rgba(15, 23, 42, 0.12);
+}
+
+body.login label {
+  color: var(--tf-text);
+  font-size: 18px;
+}
+
+body.login .input,
+body.login input[type="text"],
+body.login input[type="password"] {
+  border-radius: 10px;
+  border: 1px solid var(--tf-input-border);
+  background-color: var(--tf-input-bg);
+  min-height: 48px;
+  padding: 10px 14px;
+  box-shadow: none;
+}
+
+body.login .button.wp-hide-pw {
+  color: var(--tf-primary);
+}
+
+body.login .button-primary {
+  background: var(--tf-primary);
+  border: 0;
+  border-radius: 10px;
+  min-height: 48px;
+  padding: 0 20px;
+  text-shadow: none;
+  box-shadow: none;
+}
+
+body.login .button-primary:hover,
+body.login .button-primary:focus {
+  background: var(--tf-primary-dark);
+}
+
+body.login .forgetmenot label {
+  color: var(--tf-text);
+}
+
+body.login #nav a,
+body.login #backtoblog a {
+  color: var(--tf-primary);
+}
+
+body.login .language-switcher {
+  margin-top: 18px;
+}
+
+body.login #login_error,
+body.login .message,
+body.login .success {
+  border-radius: 10px;
+}
