@@ -498,6 +498,26 @@ function disable_serviceWorker() {
 	}
 }
 
+add_action( 'login_enqueue_scripts', 'themefood_custom_login_ui' );
+function themefood_custom_login_ui() {
+	wp_enqueue_style(
+		'themefood-login-style',
+		get_template_directory_uri() . '/css/login-custom.css',
+		array(),
+		THEMEFOOD_VERSION
+	);
+}
+
+add_filter( 'login_headerurl', 'themefood_custom_login_url' );
+function themefood_custom_login_url() {
+	return home_url( '/' );
+}
+
+add_filter( 'login_headertext', 'themefood_custom_login_title' );
+function themefood_custom_login_title() {
+	return get_bloginfo( 'name' );
+}
+
 add_action( 'wp_footer', 'user_script', 20, 1 );
 function user_script() {
 	if ( function_exists( 'ot_get_option' ) ) {
